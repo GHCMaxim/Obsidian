@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "744f6897e2ba0570",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a36c6fbf88d78b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Calculus 2/Chapter 2 - Tích phân bội.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7290d56375ff32a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b597441ca75286ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d400f3aaf2f9718a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "16c240b85d076d3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9769a223882cffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe06fa043341738f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f24402ea2b932390",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculus 2/Chapter 2 - Tích phân bội.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e7b5f220d1e0689",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb7ac508dbbaca6d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2a36c6fbf88d78b4",
+  "lastOpenFiles": [
+    "Calculus 2/Chapter 2 - Tích phân bội.md",
+    "School Materials.md",
+    "Fundamental Physics/Chap 2- HW.md",
+    "TTHCM/Tư tưởng Hồ Chí Minh.md",
+    "TTHCM/Chương 3 - Tư tưởng HCM về độc lập dân tộc và Chủ nghĩa xã hội.md",
+    "Fundamental Physics/Chapter 1 - Động học.md",
+    "Fundamental Physics/Chapter 2 - Động lực học chất điểm.md",
+    "Fundamental Physics/Cơ học 1.md",
+    "Fundamental Physics/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
+    "Excalidraw/Drawing 2022-04-16 09.31.33.excalidraw.md"
+  ]
+}
