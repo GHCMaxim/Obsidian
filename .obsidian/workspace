@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+            "file": "Calculus 2/Chapter 2.5 - Các dạng bài tập.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+                "file": "Calculus 2/Chapter 2.5 - Các dạng bài tập.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "2a36c6fbf88d78b4",
   "lastOpenFiles": [
+    "Calculus 2/Chapter 2.5 - Các dạng bài tập.md",
     "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
     "Excalidraw/Drawing 2022-04-21 16.42.37.excalidraw.md",
@@ -113,7 +114,6 @@
     "README.md",
     "School Materials.md",
     "Fundamental Physics/Chap 2- HW.md",
-    "TTHCM/Tư tưởng Hồ Chí Minh.md",
-    "TTHCM/Chương 3 - Tư tưởng HCM về độc lập dân tộc và Chủ nghĩa xã hội.md"
+    "TTHCM/Tư tưởng Hồ Chí Minh.md"
   ]
 }
