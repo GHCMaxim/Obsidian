@@ -12,3 +12,4 @@ Note: Tuỳ thuộc xét theo đường nào, từ trái sang phải hay từ d�
 	- Để xác định cận của $y$ ,kẻ một đường thẳng đi từ dưới lên trên. Ta thấy nó cắt qua $g(x)$ trước rồi đến $f(x)$ $\Rightarrow$ $g(x)\leq y \leq f(x)$
 	- $\begin{cases}a\leq x\leq b\\g(x) \leq y \leq f(x)\end{cases}$
 #### c. Xác định bởi 3 đường
+![[]]
