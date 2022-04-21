@@ -14,6 +14,16 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "f4a90e119d6e5f70",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2022-04-21 16.24.29.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -106,6 +116,7 @@
   "active": "2a36c6fbf88d78b4",
   "lastOpenFiles": [
     "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+    "Excalidraw/Drawing 2022-04-21 16.24.29.excalidraw.md",
     "Excalidraw/Drawing 2022-04-21 16.17.13.excalidraw.md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
     "README.md",
@@ -113,7 +124,6 @@
     "Fundamental Physics/Chap 2- HW.md",
     "TTHCM/Tư tưởng Hồ Chí Minh.md",
     "TTHCM/Chương 3 - Tư tưởng HCM về độc lập dân tộc và Chủ nghĩa xã hội.md",
-    "Fundamental Physics/Chapter 1 - Động học.md",
-    "Fundamental Physics/Chapter 2 - Động lực học chất điểm.md"
+    "Fundamental Physics/Chapter 1 - Động học.md"
   ]
 }
