@@ -21,4 +21,11 @@ Note: Tuỳ thuộc xét theo đường nào, từ trái sang phải hay từ d�
 - Nếu $D=D_{1}+D_{2}$ và $f(x,y)$ khả tích trên $D$ thì:$$\iint\limits_{D}f(x,y)dxdy=\iint\limits_{D_1}f(x,y)dxdy \;+\;\iint\limits_{D_2}f(x,y)dxdy$$
 #### 2. Trị tuyệt đối:
 - Nếu $f(x,y)$ và $|f(x,y)|$ là những hàm khả tích trên $D$ thì: $$\left|\iint\limits_{D}f(x,y)dxdy\right|=\iint\limits_{D}|f(x,y)|dxdy$$
-- 
+#### 3. Kết hợp 2 hàm(Note: Dùng RẤT nhiều):
+- Nếu $f(x,y)$ và $g(x,y)$ là những hàm khả tích trên $D$ thì:$$\iint\limits_{D}(f(x,y)\;\pm\;g(x,y))dxdy=\iint\limits_{D}f(x,y)dxdy \;\pm\;\iint\limits_{D}g(x,y)dxdy$$
+#### 4. Xuất hiện thừa số:
+- Nếu $f(x,y)$ là hàm khả tích trên $D$ thì:$$\iint\limits_{D}(\alpha f(x,y))dxdy=\alpha\iint\limits_{D}f(x,y)dxdy$$
+#### 5. So sánh:
+- Nếu $f(x,y)$ và $g(x,y)$ là những hàm khả tích trên $D$ và $f(x,y)\leq g(x,y),\forall(x,y)\in D$ thì:$$\iint\limits_{D}f(x,y)dxdy\leq\iint\limits_{D}g(x,y)dxdy$$
+#### 6. Miền đóng, bị chặn:
+- Nếu $D$ là miền đóng, bị chặn thì:$$S_{D}=\iint\limits_{D}1dxdy$$

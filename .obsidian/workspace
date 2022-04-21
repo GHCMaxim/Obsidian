@@ -9,19 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+            "file": "Calculus 2/Chapter 2 - Tích phân bội.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "1aa802c32b082f84",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-04-21 16.42.37.excalidraw.md"
           }
         }
       }
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+                "file": "Calculus 2/Chapter 2 - Tích phân bội.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +105,11 @@
   },
   "active": "2a36c6fbf88d78b4",
   "lastOpenFiles": [
+    "Calculus 2/Chapter 2 - Tích phân bội.md",
     "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
     "Excalidraw/Drawing 2022-04-21 16.42.37.excalidraw.md",
     "Excalidraw/Drawing 2022-04-21 16.24.29.excalidraw.md",
     "Excalidraw/Drawing 2022-04-21 16.17.13.excalidraw.md",
-    "Calculus 2/Chapter 2 - Tích phân bội.md",
     "README.md",
     "School Materials.md",
     "Fundamental Physics/Chap 2- HW.md",
