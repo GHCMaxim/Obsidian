@@ -6,4 +6,9 @@
 - renseignement = information = indication
 - se renseigner
 - s'informer
-## 
+## Memo:
+- Comparision:
+	- Bien $\Rightarrow$ mieux
+		- Example: Il travaille bien $\Rightarrow$ Il travaille mieux que son frere
+	- bon $\Rightarrow$ bon = meilleur/bonne = meilleure
+		- Example: La note 10 est meilleure que la note 8
