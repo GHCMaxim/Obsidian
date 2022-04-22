@@ -145,4 +145,9 @@ $$\overrightarrow{v}(M)=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\over
 $$
 \overrightarrow{a}(M)=\frac{d.\overrightarrow{v}(M)}{dt}=\frac{d^{2}(\overrightarrow{OM})}{dt^{2}}
 $$
-#### 2. 
+$\Rightarrow$ Duy nhất chuyển động thẳng đều có $\overrightarrow{a}=0$
+![[Pasted image 20220422235509.png]]
+#### 2. Vector gia tốc Decartes
+$$\overrightarrow{a}(M)=\ddot{x}\overrightarrow{e_x}+\ddot{y}.\overrightarrow{e_y}+\ddot{z}.\overrightarrow{e_z}$$
+#### 3. Trụ
+$$\overrightarrow{a}(M)=(\ddot{r}-r.\dot{\theta}^{2}).\overrightarrow{e_{r}}+(r.\ddot{\theta}+2\dot{r}.\dot{\theta}).\overrightarrow{e_{\theta}}+\ddot{z}.\overrightarrow{e_z}$$
