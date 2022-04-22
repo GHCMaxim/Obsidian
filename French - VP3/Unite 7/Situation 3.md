@@ -6,7 +6,7 @@
 - renseignement = information = indication
 - se renseigner
 - s'informer
-## Memo:
+## Preparation au DELF:
 - Comparision:
 	- Bien $\Rightarrow$ mieux
 		- Example: Il travaille bien $\Rightarrow$ Il travaille mieux que son frere
