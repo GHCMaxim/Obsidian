@@ -16,9 +16,15 @@
   "previewMatchObsidianTheme": false,
   "width": "400",
   "isLeftHanded": false,
+<<<<<<< HEAD
   "matchTheme": false,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
+=======
+  "matchTheme": true,
+  "matchThemeAlways": true,
+  "matchThemeTrigger": true,
+>>>>>>> 920216d2703c8c7a548b3ba3e75bcfc4bf7ec24a
   "defaultMode": "normal",
   "defaultPenMode": "never",
   "zoomToFitOnResize": true,
@@ -69,6 +75,12 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
+<<<<<<< HEAD
   "previousRelease": "1.6.24",
   "showReleaseNotes": true
+=======
+  "previousRelease": "1.6.25",
+  "showReleaseNotes": true,
+  "fieldSuggestor": true
+>>>>>>> 920216d2703c8c7a548b3ba3e75bcfc4bf7ec24a
 }

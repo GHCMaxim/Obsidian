@@ -1,6 +1,10 @@
 {
   "legacyEditor": false,
   "livePreview": true,
+<<<<<<< HEAD
+=======
+  "alwaysUpdateLinks": true,
+>>>>>>> 920216d2703c8c7a548b3ba3e75bcfc4bf7ec24a
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
