@@ -123,6 +123,7 @@ $\Rightarrow \overrightarrow{v}(M)=\sqrt{v_{x}^{2}+v_{y}^{2}+v_{z}^{2}}=\sqrt{x^
 #### 3. Trụ:
 $$\begin{align}
 &\overrightarrow{OM}=r.\overrightarrow{e_r}+z.\overrightarrow{e_{z}}\\
-&\overrightarrow{v}(M)_{/R}=\left(\frac{d.\overrightarrow{OM}}{dt}\right)&=r.\overrightarrow{e_r}+r.\dot{\theta}.\overrightarrow{e_\theta}+z.\overrightarrow{e_{z}}\\&&=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_{z}}\\
-\frac{d}{}
+&\overrightarrow{v}(M)_{/R}=\left(\frac{d.\overrightarrow{OM}}{dt}\right)=r.\overrightarrow{e_r}+r.\dot{\theta}.\overrightarrow{e_\theta}+z.\overrightarrow{e_{z}}=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_{z}}\\
+&\frac{d \overrightarrow{e_{r}}}{dt}_{/R}=\frac{d.\overrightarrow{e_r}}{d\theta}.\frac{d\theta}{dt}=\ddot\theta.\overrightarrow{e_{\theta}}\\
+&\Rightarrow \overrightarrow{v}(M)=\sqrt{\overrightarrow{v_{r}}^2+\overrightarrow{v_{\theta}}^{2}+\overrightarrow{v_{z}}^{2}}=\sqrt{\ddot{r}^{2}+\dot{r}^{2}\dot{\theta}^2+\ddot{z}^2}\\
 \end{align}$$
