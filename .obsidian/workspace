@@ -7,9 +7,11 @@
         "id": "2a36c6fbf88d78b4",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-04-22 22.07.32.excalidraw.md"
+            "file": "Calculus 2/Chapter 2.2 - Giải BT đề cương.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-04-22 22.07.32.excalidraw.md",
+                "file": "Calculus 2/Chapter 2.2 - Giải BT đề cương.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +105,8 @@
   },
   "active": "2a36c6fbf88d78b4",
   "lastOpenFiles": [
+    "Calculus 2/Chapter 2.2 - Giải BT đề cương.md",
     "Excalidraw/Drawing 2022-04-22 22.07.32.excalidraw.md",
-    "Chapter 2.2 - Giải BT đề cương.md",
     "Calculus 2/Chapter 3 - Tích phân bội 3.md",
     "Calculus 2/Chapter 2.1 - Ứng dụng của tích phân bội.md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
