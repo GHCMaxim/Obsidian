@@ -131,6 +131,9 @@ $$\begin{align}
 $$
 \begin{align*}
 &\overrightarrow{OM}=r.\overrightarrow{e_{r}}\\
-&\overrightarrow{v}(M)_{\frac{}{R}=r.\overrightarrow{e_{r}}+r.\dot{\theta}.\overrightarrow{e_{\theta}}+r.Sin\theta}.\var[hjo]
+\overrightarrow{v}(M)_{/R}&=r.\overrightarrow{e_{r}}+r.\dot{\theta}.\overrightarrow{e_{\theta}}+r.Sin\theta.\dot{\varphi}.\overrightarrow{e_{\varphi}}\\
+&=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_{\varphi}}\\
+\frac{d.\overrightarrow{e_{r}}}{dt}&=\dot{\theta}.\overrightarrow{e_{\theta}}+Sin\theta.\dot{\varphi}.\overrightarrow{e_{\varphi}}\\
+\Rightarrow v(M)&= \sqrt{\overrightarrow{v_{r}}^{2}+\overrightarrow{v_{\theta}}}
 \end{align*}
 $$
