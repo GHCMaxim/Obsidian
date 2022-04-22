@@ -1,14 +1,9 @@
 {
-<<<<<<< HEAD
   "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
-=======
-  "commitMessage": "Vault backup: {{date}}",
-  "autoCommitMessage": "Vault backup: {{date}}",
->>>>>>> 920216d2703c8c7a548b3ba3e75bcfc4bf7ec24a
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
-  "autoPullInterval": 0,
+  "autoPullInterval": 5,
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -17,13 +12,9 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-<<<<<<< HEAD
   "gitPath": "",
-=======
-  "gitPath": "git",
->>>>>>> 920216d2703c8c7a548b3ba3e75bcfc4bf7ec24a
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": ""

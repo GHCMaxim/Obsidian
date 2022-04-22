@@ -1,15 +1,7 @@
 [
-  "obsidian-excalidraw-plugin",
-<<<<<<< HEAD
-  "remotely-save",
-  "quick-latex",
-  "obsidian-pandoc",
-  "obsidian-git"
-=======
   "better-word-count",
+  "juggl",
   "obsidian-git",
-  "remotely-save",
-  "quick-latex",
-  "juggl"
->>>>>>> 920216d2703c8c7a548b3ba3e75bcfc4bf7ec24a
+  "obsidian-pandoc",
+  "quick-latex"
 ]
