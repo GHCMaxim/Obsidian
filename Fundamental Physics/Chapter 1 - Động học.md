@@ -113,7 +113,16 @@ $$\begin{align*}
 &\frac{d \overrightarrow{e_{\theta}}}{d\varphi}=Cos\theta.\overrightarrow{e_{\varphi}}
 \end{align*}$$
 ### IV. Vector vận tốc trong hệ toạ độ Decartes, trụ, cầu
-#### 1. Định nghĩa
+#### 1. Định nghĩa:
 $$\overrightarrow{v}(M)_{/R}=\left(\frac{d \overrightarrow{OM}}{dt}\right)_{/R}$$
-#### 2. Decartes
-$$\overrightarrow{v}(M)_{/R}=\left(\frac{d \overrightarrow{OM}}{dt}\right)_{/R}=\frac{dx}{dt}\overrightarrow{e_{x}}+\frac{dy}{dt}$$
+#### 2. Decartes:
+$$\overrightarrow{v}(M)_{/R}=\left(\frac{d \overrightarrow{OM}}{dt}\right)_{/R}=\frac{dx}{dt}\overrightarrow{e_{x}}+\frac{dy}{dt}\overrightarrow{e_{y}}+\frac{dz}{dt}\overrightarrow{e_{z}}$$
+hay:
+	 $\begin{align}\overrightarrow{v}(M)&=x.\overrightarrow{e_{x}}+y.\overrightarrow{e_{y}}+z.\overrightarrow{e_{z}}\\&=\overrightarrow{v_{x}}+\overrightarrow{v_{y}}+\overrightarrow{v_{z}}\end{align}$
+$\Rightarrow \overrightarrow{v}(M)=\sqrt{v_{x}^{2}+v_{y}^{2}+v_{z}^{2}}=\sqrt{x^{2}+y^{2}+z^{2}}$ 
+#### 3. Trụ:
+$$\begin{align}
+&\overrightarrow{OM}=r.\overrightarrow{e_r}+z.\overrightarrow{e_{z}}\\
+&\overrightarrow{v}(M)_{/R}=\left(\frac{d.\overrightarrow{OM}}{dt}\right)&=r.\overrightarrow{e_r}+r.\dot{\theta}.\overrightarrow{e_\theta}+z.\overrightarrow{e_{z}}\\&&=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_{z}}\\
+\frac{d}{}
+\end{align}$$
