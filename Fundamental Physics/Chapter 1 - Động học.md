@@ -134,6 +134,15 @@ $$
 \overrightarrow{v}(M)_{/R}&=r.\overrightarrow{e_{r}}+r.\dot{\theta}.\overrightarrow{e_{\theta}}+r.Sin\theta.\dot{\varphi}.\overrightarrow{e_{\varphi}}\\
 &=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_{\varphi}}\\
 \frac{d.\overrightarrow{e_{r}}}{dt}&=\dot{\theta}.\overrightarrow{e_{\theta}}+Sin\theta.\dot{\varphi}.\overrightarrow{e_{\varphi}}\\
-\Rightarrow v(M)&= \sqrt{\overrightarrow{v_{r}}^{2}+\overrightarrow{v_{\theta}}}
+\Rightarrow v(M)&= \sqrt{\overrightarrow{v_{r}}^{2}+\overrightarrow{v_{\theta}}^2+\overrightarrow{v_{\varphi}}^2}\\
+&=\sqrt{\dot{r}^2+r^{2}\dot{\theta}+(r.Sin\theta.\dot{\varphi})^{2}}
 \end{align*}
 $$
+#### 5. Sự tổng hợp
+$$\overrightarrow{v}(M)=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_\varphi}=\dot{r}.\overrightarrow{e_r}+r.\dot{\theta}.\overrightarrow{e_{r}}+...$$
+### V. Vector gia tốc - Decartes,Trụ
+#### 1. Định nghĩa
+$$
+\overrightarrow{a}(M)=\frac{d.\overrightarrow{v}(M)}{dt}=\frac{d^{2}(\overrightarrow{OM})}{dt^{2}}
+$$
+#### 2. 
