@@ -127,3 +127,10 @@ $$\begin{align}
 &\frac{d \overrightarrow{e_{r}}}{dt}_{/R}=\frac{d.\overrightarrow{e_r}}{d\theta}.\frac{d\theta}{dt}=\ddot\theta.\overrightarrow{e_{\theta}}\\
 &\Rightarrow \overrightarrow{v}(M)=\sqrt{\overrightarrow{v_{r}}^2+\overrightarrow{v_{\theta}}^{2}+\overrightarrow{v_{z}}^{2}}=\sqrt{\ddot{r}^{2}+\dot{r}^{2}\dot{\theta}^2+\ddot{z}^2}\\
 \end{align}$$
+#### 4. Cầu
+$$
+\begin{align*}
+&\overrightarrow{OM}=r.\overrightarrow{e_{r}}\\
+&\overrightarrow{v}(M)_{\frac{}{R}=r.\overrightarrow{e_{r}}+r.\dot{\theta}.\overrightarrow{e_{\theta}}+r.Sin\theta}.\var[hjo]
+\end{align*}
+$$
