@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "58f0707c69831a93",
+    "id": "744f6897e2ba0570",
     "type": "split",
     "children": [
       {
-        "id": "1f8e7454a80af629",
+        "id": "2a36c6fbf88d78b4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -14,30 +14,20 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "5cb910033d37c927",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-04-22 16.57.24.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "31f62c85a9516389",
+    "id": "7290d56375ff32a8",
     "type": "split",
     "children": [
       {
-        "id": "619117f5c54db0da",
+        "id": "b597441ca75286ae",
         "type": "tabs",
         "children": [
           {
-            "id": "88f32d02258efe79",
+            "id": "d400f3aaf2f9718a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +35,7 @@
             }
           },
           {
-            "id": "b7d31347576e698c",
+            "id": "16c240b85d076d3b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,15 +56,15 @@
     "width": 300
   },
   "right": {
-    "id": "2182eb02a7588743",
+    "id": "d9769a223882cffe",
     "type": "split",
     "children": [
       {
-        "id": "34b2e2e2866230fd",
+        "id": "fe06fa043341738f",
         "type": "tabs",
         "children": [
           {
-            "id": "cf29791e81ec8945",
+            "id": "f24402ea2b932390",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -91,7 +81,7 @@
             }
           },
           {
-            "id": "d7fd4b93bc33b3f0",
+            "id": "8e7b5f220d1e0689",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -99,7 +89,7 @@
             }
           },
           {
-            "id": "c81e1a7a5bad8831",
+            "id": "cb7ac508dbbaca6d",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -113,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f8e7454a80af629",
+  "active": "2a36c6fbf88d78b4",
   "lastOpenFiles": [
     "Calculus 2/Chapter 3 - Tích phân bội 3.md",
-    "Excalidraw/Drawing 2022-04-22 16.57.24.excalidraw.md",
     "Calculus 2/Chapter 2.1 - Ứng dụng của tích phân bội.md",
-    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
-    "Excalidraw/Drawing 2022-04-22 16.08.46.excalidraw.md",
-    "Excalidraw/Drawing 2022-04-22 16.08.45.excalidraw.md",
-    "Excalidraw/Drawing 2022-04-09 17.46.53.excalidraw.png",
     "Calculus 2/Chapter 2.5 - Các dạng bài tập.md",
-    "Excalidraw/Drawing 2022-04-22 16.06.36.excalidraw.md"
+    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+    "Excalidraw/Drawing 2022-04-21 16.42.37.excalidraw.md",
+    "Excalidraw/Drawing 2022-04-21 16.24.29.excalidraw.md",
+    "Excalidraw/Drawing 2022-04-21 16.17.13.excalidraw.md",
+    "README.md",
+    "School Materials.md"
   ]
 }
