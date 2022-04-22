@@ -99,4 +99,21 @@ $$\frac{d\overrightarrow{U}}{d(\xi)_{/R}}$$
 - $\overrightarrow{U}_{\xi}$ là một vector có độ dài không đổi những hướng có thể thay đổi:$$\frac{dU^2}{d\xi}=\frac{d}{d\xi}(\overrightarrow{u},\overrightarrow{u})=0$$
 - Trong hệ Decartes:$$\begin{align}\overrightarrow{U}_{(\xi)}=U_x.\overrightarrow{e_x}+U_{y}.\overrightarrow{e_{y}}+U_z.\overrightarrow{e_{z}}\\\Rightarrow(\frac{dU}{d\xi})_{/R}=\frac{dU_x}{d\xi}.\overrightarrow{e_x}...\end{align}$$
 #### 5. Đạo hàm của các vector của cơ sở địa phương trong toạ độ trụ
-$$\begin{align}\overrightarrow{e_r}=Cos\theta.\overrightarrow{e_x}+Sin\theta.\overrightarrow{e_y}\\\overrightarrow{e_\theta}=-Sin\theta e_x+Cos\theta e_y\\\Rightarrow \end{align}$$
+$$\begin{align}
+\overrightarrow{e_r}=Cos\theta.\overrightarrow{e_x}+Sin\theta.\overrightarrow{e_y}\\
+\overrightarrow{e_\theta}=-Sin\theta e_x+Cos\theta e_y\\
+\Rightarrow \left(\frac{d.\overrightarrow{e_r}}{d\theta}\right)_{/R}=\overrightarrow{e_\theta}\\
+\Rightarrow \left(\frac{d.\overrightarrow{e_{\theta}}}{d\theta }\right)_{/R}=-\overrightarrow{e_{r}}
+\end{align}$$
+#### 6. Đạo hàm của vector của cơ sở địa phương trong toạ độ cầu
+$$\begin{align*}
+&\frac{d \overrightarrow{e_r}}{d\theta}=\overrightarrow{e_{\theta}}\\\\
+&\frac{d \overrightarrow{e_{r}}}{d\varphi}=- \overrightarrow{e_r}\\
+&\frac{d \overrightarrow{e_{r}}}{d\varphi}=Sin\theta.\overrightarrow{e_{\varphi}}\\
+&\frac{d \overrightarrow{e_{\theta}}}{d\varphi}=Cos\theta.\overrightarrow{e_{\varphi}}
+\end{align*}$$
+### IV. Vector vận tốc trong hệ toạ độ Decartes, trụ, cầu
+#### 1. Định nghĩa
+$$\overrightarrow{v}(M)_{/R}=\left(\frac{d \overrightarrow{OM}}{dt}\right)_{/R}$$
+#### 2. Decartes
+$$\overrightarrow{v}(M)_{/R}=\left(\frac{d \overrightarrow{OM}}{dt}\right)_{/R}=\frac{dx}{dt}\overrightarrow{e_{x}}+\frac{dy}{dt}$$

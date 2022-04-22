@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundamental Physics/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
+            "file": "Fundamental Physics/Chapter 1 - Động học.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Physics/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
+                "file": "Fundamental Physics/Chapter 1 - Động học.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "2a36c6fbf88d78b4",
   "lastOpenFiles": [
+    "Fundamental Physics/Chapter 1 - Động học.md",
     "Fundamental Physics/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
     "Fundamental Physics/Chap 2- HW.md",
     "Calculus 2/Chapter 3 - Tích phân bội 3.md",
@@ -113,7 +114,6 @@
     "Calculus 2/Chapter 2.1 - Ứng dụng của tích phân bội.md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
     "Calculus 2/Chapter 2.5 - Các dạng bài tập.md",
-    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
-    "Excalidraw/Drawing 2022-04-21 16.42.37.excalidraw.md"
+    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md"
   ]
 }
