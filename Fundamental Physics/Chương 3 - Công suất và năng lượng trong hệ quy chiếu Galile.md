@@ -74,5 +74,5 @@ $$\mathscr{E}_M=\mathscr{E}_p+\mathscr{E}_{k}$$
 - $\mathscr{E}_M$ là cơ năng của chất điểm trong $R_g$
 #### 2. Sự vận động bảo toàn và tích phàn đầu của năng lượng
 - Chất điểm vận động bảo toàn trong $R_g$
-- $$\mathscr{E}_M= cte$$
+$$\mathscr{E}_M= cte$$
 B T: AD4 , BT1,7.
