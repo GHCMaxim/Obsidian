@@ -6,4 +6,4 @@
 - renseignement = information = indication
 - se renseigner
 - s'informer
-- 
+## 
