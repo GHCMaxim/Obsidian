@@ -1,0 +1,24 @@
+## Situation 1: Parler de sa santé
+- Il y a un probleme: Is there a problem
+- solution (n.f) = Une methode, un moyer, une facon
+- argumenter qqc: sử dụng lý lẽ 
+- argument (n.m) argument
+- Réduire = diminuer: giảm bớt
+- Sommeil(n.m) Sleep
+- Moyenne = plus ou moins
+- Nécessaire (adj) necessary
+- Se récupérer = récupérer ses forces: lấy lại sức lực
+- un réveil: alarm clock
+- Se reveiller: wake up
+- Se lever
+- Une horloge: Đồng hồ treo tường
+- Fait la grasse matinée: Ngủ nướng
+- conseiller qqc à qqn / à qqn de f.qqc
+- Conseil (n.m) = recomandation (n.f)/ renseignement (n.m)  
+- un truc: a thing
+- avant de f.qqc(V.inf - present): $\neq$ apres avoir f.oat qqc(V.inf passe)
+	- Exemple:
+		- Avant d'aller en classe, Ha a fait tous les exercises
+		- Apres avoir fait tous les exercises, Ha va en classe.
+-    
+

@@ -1,3 +1,4 @@
+
 # Động học
 ### Mục tiêu chính:
 - Xác định vị trí một biến cố trong không gian và thời gian
@@ -99,55 +100,4 @@ $$\frac{d\overrightarrow{U}}{d(\xi)_{/R}}$$
 - $\overrightarrow{U}_{\xi}$ là một vector có độ dài không đổi những hướng có thể thay đổi:$$\frac{dU^2}{d\xi}=\frac{d}{d\xi}(\overrightarrow{u},\overrightarrow{u})=0$$
 - Trong hệ Decartes:$$\begin{align}\overrightarrow{U}_{(\xi)}=U_x.\overrightarrow{e_x}+U_{y}.\overrightarrow{e_{y}}+U_z.\overrightarrow{e_{z}}\\\Rightarrow(\frac{dU}{d\xi})_{/R}=\frac{dU_x}{d\xi}.\overrightarrow{e_x}...\end{align}$$
 #### 5. Đạo hàm của các vector của cơ sở địa phương trong toạ độ trụ
-$$\begin{align}
-\overrightarrow{e_r}=Cos\theta.\overrightarrow{e_x}+Sin\theta.\overrightarrow{e_y}\\
-\overrightarrow{e_\theta}=-Sin\theta e_x+Cos\theta e_y\\
-\Rightarrow \left(\frac{d.\overrightarrow{e_r}}{d\theta}\right)_{/R}=\overrightarrow{e_\theta}\\
-\Rightarrow \left(\frac{d.\overrightarrow{e_{\theta}}}{d\theta }\right)_{/R}=-\overrightarrow{e_{r}}
-\end{align}$$
-#### 6. Đạo hàm của vector của cơ sở địa phương trong toạ độ cầu
-$$\begin{align*}
-&\frac{d \overrightarrow{e_r}}{d\theta}=\overrightarrow{e_{\theta}}\\\\
-&\frac{d \overrightarrow{e_{r}}}{d\varphi}=- \overrightarrow{e_r}\\
-&\frac{d \overrightarrow{e_{r}}}{d\varphi}=Sin\theta.\overrightarrow{e_{\varphi}}\\
-&\frac{d \overrightarrow{e_{\theta}}}{d\varphi}=Cos\theta.\overrightarrow{e_{\varphi}}
-\end{align*}$$
-### IV. Vector vận tốc trong hệ toạ độ Decartes, trụ, cầu
-#### 1. Định nghĩa:
-$$\overrightarrow{v}(M)_{/R}=\left(\frac{d \overrightarrow{OM}}{dt}\right)_{/R}$$
-#### 2. Decartes:
-$$\overrightarrow{v}(M)_{/R}=\left(\frac{d \overrightarrow{OM}}{dt}\right)_{/R}=\frac{dx}{dt}\overrightarrow{e_{x}}+\frac{dy}{dt}\overrightarrow{e_{y}}+\frac{dz}{dt}\overrightarrow{e_{z}}$$
-hay:
-	 $\begin{align}\overrightarrow{v}(M)&=x.\overrightarrow{e_{x}}+y.\overrightarrow{e_{y}}+z.\overrightarrow{e_{z}}\\&=\overrightarrow{v_{x}}+\overrightarrow{v_{y}}+\overrightarrow{v_{z}}\end{align}$
-$\Rightarrow \overrightarrow{v}(M)=\sqrt{v_{x}^{2}+v_{y}^{2}+v_{z}^{2}}=\sqrt{x^{2}+y^{2}+z^{2}}$ 
-#### 3. Trụ:
-$$\begin{align}
-&\overrightarrow{OM}=r.\overrightarrow{e_r}+z.\overrightarrow{e_{z}}\\
-&\overrightarrow{v}(M)_{/R}=\left(\frac{d.\overrightarrow{OM}}{dt}\right)=r.\overrightarrow{e_r}+r.\dot{\theta}.\overrightarrow{e_\theta}+z.\overrightarrow{e_{z}}=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_{z}}\\
-&\frac{d \overrightarrow{e_{r}}}{dt}_{/R}=\frac{d.\overrightarrow{e_r}}{d\theta}.\frac{d\theta}{dt}=\ddot\theta.\overrightarrow{e_{\theta}}\\
-&\Rightarrow \overrightarrow{v}(M)=\sqrt{\overrightarrow{v_{r}}^2+\overrightarrow{v_{\theta}}^{2}+\overrightarrow{v_{z}}^{2}}=\sqrt{\ddot{r}^{2}+\dot{r}^{2}\dot{\theta}^2+\ddot{z}^2}\\
-\end{align}$$
-#### 4. Cầu
-$$
-\begin{align*}
-&\overrightarrow{OM}=r.\overrightarrow{e_{r}}\\
-\overrightarrow{v}(M)_{/R}&=r.\overrightarrow{e_{r}}+r.\dot{\theta}.\overrightarrow{e_{\theta}}+r.Sin\theta.\dot{\varphi}.\overrightarrow{e_{\varphi}}\\
-&=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_{\varphi}}\\
-\frac{d.\overrightarrow{e_{r}}}{dt}&=\dot{\theta}.\overrightarrow{e_{\theta}}+Sin\theta.\dot{\varphi}.\overrightarrow{e_{\varphi}}\\
-\Rightarrow v(M)&= \sqrt{\overrightarrow{v_{r}}^{2}+\overrightarrow{v_{\theta}}^2+\overrightarrow{v_{\varphi}}^2}\\
-&=\sqrt{\dot{r}^2+r^{2}\dot{\theta}+(r.Sin\theta.\dot{\varphi})^{2}}
-\end{align*}
-$$
-#### 5. Sự tổng hợp
-$$\overrightarrow{v}(M)=\overrightarrow{v_{r}}+\overrightarrow{v_{\theta}}+\overrightarrow{v_\varphi}=\dot{r}.\overrightarrow{e_r}+r.\dot{\theta}.\overrightarrow{e_{r}}+...$$
-### V. Vector gia tốc - Decartes,Trụ
-#### 1. Định nghĩa
-$$
-\overrightarrow{a}(M)=\frac{d.\overrightarrow{v}(M)}{dt}=\frac{d^{2}(\overrightarrow{OM})}{dt^{2}}
-$$
-$\Rightarrow$ Duy nhất chuyển động thẳng đều có $\overrightarrow{a}=0$
-![[Pasted image 20220422235509.png]]
-#### 2. Vector gia tốc Decartes
-$$\overrightarrow{a}(M)=\ddot{x}\overrightarrow{e_x}+\ddot{y}.\overrightarrow{e_y}+\ddot{z}.\overrightarrow{e_z}$$
-#### 3. Trụ
-$$\overrightarrow{a}(M)=(\ddot{r}-r.\dot{\theta}^{2}).\overrightarrow{e_{r}}+(r.\ddot{\theta}+2\dot{r}.\dot{\theta}).\overrightarrow{e_{\theta}}+\ddot{z}.\overrightarrow{e_z}$$
+$$\begin{align}\overrightarrow{e_r}=Cos\theta.\overrightarrow{e_x}+Sin\theta.\overrightarrow{e_y}\\\overrightarrow{e_\theta}=-Sin\theta e_x+Cos\theta e_y\\\Rightarrow \end{align}$$
