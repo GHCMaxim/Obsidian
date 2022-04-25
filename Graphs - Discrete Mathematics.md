@@ -37,11 +37,20 @@ $\Rightarrow$ c is a pendant vertex, and d is an isolated vertex
 ##### Exercise 2:
 - Edges: 12
 - Vertices: 5
-- $\begin{align}deg(a)=4\\deg(b)=6\\deg(c)=5\\deg(d)=5\\deg(e)=3\end{align}$
+- $\begin{align}deg(a)=5\\deg(b)=6\\deg(c)=5\\deg(d)=5\\deg(e)=3\end{align}$
 No pendant/isolated vertices
 ##### Exercise 3:
 - Edges: 12
 - Vertices: 9
 - $\begin{align}deg(a)=3\\deg(b)=2\\deg(c)=4\\deg(d)=0\\deg(e)=2\\deg(f)=0\\deg(g)=4\\deg(h)=2\\deg(i)=3\end{align}$
 $\Rightarrow$ f and d are isolated vertices
-##### Exercise 
+##### Exercise 4:
+- Graph 1: 2+4+1+0+2+3=12 $\Rightarrow$ Twice edges
+- Graph 2: 5+6+5+5+3=24  $\Rightarrow$ Twice edges
+- Graph 3: 3+2+4+0+2+0+4+2+3=24 $\Rightarrow$ Twice edges
+##### Exercise 4:
+- Proving: 
+	- Every edge has 2 ends. Therefore, the total number of edge ends must be even (Twice the amount of edges)
+	- The degree of a vertex is the number of edges that end at said vertex. However, all edges have a vertex at both ends, the sum of all vertex degrees is Edges * 2. Therefore, it is always even
+	- However, the sum of all vertex degrees is the sum of all even vertex degrees + the sum of all odd vertex degrees. While the first one is *obviously* even, the 2nd one also has to be even. But a sum of odd numbers is only even if there is an even number of them.
+- Therefore, the number of vertices of odd degree *must* be even. Because of this, there cannot exist a graph with 15 vertices of odd degree 5
