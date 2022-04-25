@@ -54,3 +54,4 @@ $\Rightarrow$ f and d are isolated vertices
 	- The degree of a vertex is the number of edges that end at said vertex. However, all edges have a vertex at both ends, the sum of all vertex degrees is Edges * 2. Therefore, it is always even
 	- However, the sum of all vertex degrees is the sum of all even vertex degrees + the sum of all odd vertex degrees. While the first one is *obviously* even, the 2nd one also has to be even. But a sum of odd numbers is only even if there is an even number of them.
 - Therefore, the number of vertices of odd degree *must* be even. Because of this, there cannot exist a graph with 15 vertices of odd degree 5
+Note: Only after kinda solving the theorem, did I realize it was already in the ppt. >:L
