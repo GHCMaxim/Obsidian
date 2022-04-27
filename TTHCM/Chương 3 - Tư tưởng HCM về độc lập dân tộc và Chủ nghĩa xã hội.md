@@ -33,5 +33,8 @@ $\Rightarrow$ Chỉ có Đảng mới thực hiện được mục tiêu của C
 - HCM còn cho rằng cách mạng giải phóng dân tộc ở thuộc địa có thể dành thắng lợi trước cách mạng vô sản chính quốc. Người nói "Trong khi thủ tiêu một trong những điều kiện tồn tại của CNTB, là chủ nghĩa đế quốc, họ có thể giúp những người anh em mình ở phương Tây trong nhiệm vụ giải phóng hoàn toàn." Tư tưởng này thể hiện HCM là nhà tiên tri đi trước Quốc tế cộng sản.
 $\Rightarrow$ *Đây là đặc điểm sáng tạo, độc đáo, có giá trị lý luận và thực tiễn to lớn. Là cống hiến quan trọng của HCM vào kho tàng lý luận của chủ nghĩa Mác - Lênin được cách mạng tháng Tám /1945 ở Việt Nam và phong trào giải phóng dân tộc trên thế giới chứng minh.*
 ##### e. Cách mạng giải phóng dân tộc phải được tiến hành bằng phương pháp bạo lực cách mạng
+- Kế thừa quan điểm về bạo lực cách mạng của Lênin, HCM khẳng định:
+	- Phải sử dụng bạo lực cách mạng chống lại bạo lực phản cách mạng trong đấu tranh giành chính quyền và bảo vệ chính quyền.
+	- Hình thức của bạo lực cách mạng là bạo lực của quần chúng với 2 hình thức đấu tranh là đấu tranh chính trị và đấu tranh vũ trang. Nhưng phải tuỳ tình hình cụ thể mà quyết định những hình thức đấu tranh cách mạng thích hợp, sử dụng đúng và khéo kết hợp các hình thức đấu tranh vũ trang và đấu tranh chính trị để giành thắng lợi cho cách mạng 
 
-
+  
