@@ -1,5 +1,5 @@
 ### I. Tư tưởng HCM về độc lập dân tộc
-#### 1. Vấn đề độc lập dân tộc
+#### 1. Vấn đề đ   ộc lập dân tộc
 ##### a. Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả dân tộc
 - Lịch sử của dân tộc VN gắn liền với tư tưởng yêu nước, đấu tranh chống lại ngoại xâm, là 1 khát khao của dân tộc, luôn mong muốn độc lập cho dân tộc, tự do cho nhân dân mà HCM là một hiện thân của tinh thần ấy
 - HCM đã thông qua các khảo nghiệm thực tế và các tư tưởng tiến bộ về quyền độc lập, tự do, bình đẳng để viết lên bản tuyên ngôn độc lập trịnh trọng tuyên bố trước quốc dân và thế giới: "Nước VN có quền hưởng tự do độc lập" và sự thực đó đã trở thành nước tự do độc lập. Toàn thể VN đã đem toàn bộ nguồn lực, của cải để giữ được quyền tự do, độc lập ấy.
