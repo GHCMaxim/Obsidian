@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "744f6897e2ba0570",
+    "id": "58f0707c69831a93",
     "type": "split",
     "children": [
       {
-        "id": "2a36c6fbf88d78b4",
+        "id": "5cb910033d37c927",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus 2/Chapter 2 - Tích phân bội.md",
+            "file": "TTHCM/Chương 3 - Tư tưởng HCM về độc lập dân tộc và Chủ nghĩa xã hội.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7290d56375ff32a8",
+    "id": "31f62c85a9516389",
     "type": "split",
     "children": [
       {
-        "id": "b597441ca75286ae",
+        "id": "619117f5c54db0da",
         "type": "tabs",
         "children": [
           {
-            "id": "d400f3aaf2f9718a",
+            "id": "88f32d02258efe79",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "16c240b85d076d3b",
+            "id": "b7d31347576e698c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "d9769a223882cffe",
+    "id": "2182eb02a7588743",
     "type": "split",
     "children": [
       {
-        "id": "fe06fa043341738f",
+        "id": "34b2e2e2866230fd",
         "type": "tabs",
         "children": [
           {
-            "id": "f24402ea2b932390",
+            "id": "cf29791e81ec8945",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/Chapter 2 - Tích phân bội.md",
+                "file": "TTHCM/Chương 3 - Tư tưởng HCM về độc lập dân tộc và Chủ nghĩa xã hội.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "8e7b5f220d1e0689",
+            "id": "d7fd4b93bc33b3f0",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "cb7ac508dbbaca6d",
+            "id": "c81e1a7a5bad8831",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a36c6fbf88d78b4",
+  "active": "5cb910033d37c927",
   "lastOpenFiles": [
-    "Calculus 2/Chapter 2 - Tích phân bội.md",
-    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+    "TTHCM/Chương 3 - Tư tưởng HCM về độc lập dân tộc và Chủ nghĩa xã hội.md",
+    "TTHCM/Chương 4 -.md",
+    "TTHCM/Tư tưởng Hồ Chí Minh.md",
+    "Excalidraw/Drawing 2022-04-22 16.57.24.excalidraw.md",
     "Calculus 2/Chapter 3 - Tích phân bội 3.md",
-    "Calculus 2/Chapter 2.2 - Giải BT đề cương.md",
-    "Calculus 2/Chapter 2.5 - Các dạng bài tập.md",
-    "Fundamental Physics 1 - PFIEV.md",
-    "Law of Economics - Day 2.md",
-    "Graphs - Discrete Mathematics.md",
     "Calculus 2/Chapter 2.1 - Ứng dụng của tích phân bội.md",
-    "Excalidraw/Drawing 2022-04-09 17.46.53.excalidraw.png"
+    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+    "Calculus 2/Chapter 2 - Tích phân bội.md",
+    "Excalidraw/Drawing 2022-04-22 16.08.46.excalidraw.md",
+    "Excalidraw/Drawing 2022-04-22 16.08.45.excalidraw.md"
   ]
 }

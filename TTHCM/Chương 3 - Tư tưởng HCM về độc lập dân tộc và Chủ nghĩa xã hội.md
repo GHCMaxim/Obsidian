@@ -20,3 +20,8 @@ $\Rightarrow$ Tư tưởng độc lập dân tộc thống nhất tổ quốc, l
 ##### b. Cách mạng giải phóng dân tộc trong điều kiện của Việt Nam muốn thắng lợi phải do ĐCS lãnh đạo
 - HCM kế thừa quan điểm của chủ nghĩa Mác, người khẳng định vai trò to lớn của Đảng đối với cách mạng giải phóng dân tộc. Trong "Đường cách mệnh", Người viết "Trước hết phải có Đảng cách mệnh để trong vận động, tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi "
 $\Rightarrow$ Chỉ có Đảng mới thực hiện được mục tiêu của Cách mạng, giải phóng giai cấp, con người
+##### c. Cách mạng giải phóng dân tộc phải dựa trên lực lượng đại đoàn kết dân tộc, lấy liên minh công - nông làm nền tảng
+- Quan điểm của chủ nghĩa Mác - Lênin khẳng định cách mạng là sự nghiệp của quần chúng nhân dân. Lênin viết "Không có sự đồng tình ủng hộ của đại đa số nhân dân lao động đối với đội tiền phong cùa mình là giai cấp vô sản thì cách mạng vô sản không thể thực hiện được." 
+- Kế thừa quan điểm trên, HCM khẳng định cách mệnh là việc chung của cả dân chúng chứ không phải việc của một, hai người. Người lý giải dân tộc cách mệnh thì chưa phân giai cấp, phải đoàn kết toàn dân thì cách mạng mới thành công.
+- HCM đánh giá cao vai trò của quần chúng nhân dân trong khởi nghĩa đấu tranh, coi đây là then chốt, đảm bảo thắng lợi cho cách mạng. Trong "Lời kêu gọi toàn quốc kháng chiến" 12/1946, Người viết: "Bất kì đàn ông, đàn bà, bất kì người già người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam là phải đứng lên đánh thực dân Pháp để cứu Tổ quốc."
+- HCM khẳng định công nhân - nông dân là nền tảng, là động lực chủ yếu của cách mạng. Tiểu tư sản, tư sản dân tộc và một bộ phận địa chủ là bạn đồng minh của cách mạng.
