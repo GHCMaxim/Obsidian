@@ -36,5 +36,5 @@ $\Rightarrow$ *Đây là đặc điểm sáng tạo, độc đáo, có giá tr�
 - Kế thừa quan điểm về bạo lực cách mạng của Lênin, HCM khẳng định:
 	- Phải sử dụng bạo lực cách mạng chống lại bạo lực phản cách mạng trong đấu tranh giành chính quyền và bảo vệ chính quyền.
 	- Hình thức của bạo lực cách mạng là bạo lực của quần chúng với 2 hình thức đấu tranh là đấu tranh chính trị và đấu tranh vũ trang. Nhưng phải tuỳ tình hình cụ thể mà quyết định những hình thức đấu tranh cách mạng thích hợp, sử dụng đúng và khéo kết hợp các hình thức đấu tranh vũ trang và đấu tranh chính trị để giành thắng lợi cho cách mạng 
-
+- HCM khẳng định cần tận dụng mọi khả năng giải quyết xung đột bằng phương pháp hoà bình. Chiến tranh là giải pháp bắt buộc cuối cùng. Tư tưởng nhân đạo và hoà bình gắn bó chặt với tư tưởng bạo lực cách mạng. Người chủ trương đấu tranh quân sự phải kết hợp với đấu tranh chính trị ngoại giao, kinh tế, văn hoá, tư tưởng. Phương châm chiến lược là tự lực gánh sinh, là trường kì kháng chiến
   
