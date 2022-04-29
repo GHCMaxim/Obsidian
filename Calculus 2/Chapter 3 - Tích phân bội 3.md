@@ -11,7 +11,7 @@
   \end{align}$$
 - *Chú ý:* Khả tích $\Leftarrow$ Liên tục $\Leftarrow$ Khả vi. Nhưng **KHÔNG** có ngược lại.
 ### 2. Cách tính tích phân bộ ba trong hệ toạ độ Decartes
-
+Cách tính: Đưa về 3 tích phân xác định theo từng biến (tích phân lặp)
 ### 3. Tính chất
 - $\iiint(f+g)dxdydz=\iiint f\;dxdydz+\iiint g\;dxdydz$
 - $\iiint\limits_{D_{1}\cup D_{2}}fdv=\iiint\limits_{D_{1}}fdv+\iiint\limits_{D_{2}}fdv$ 
