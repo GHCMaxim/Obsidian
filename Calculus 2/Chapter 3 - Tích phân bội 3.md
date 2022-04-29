@@ -26,4 +26,4 @@ Cách tính: Đưa về 3 tích phân xác định theo từng biến (tích ph�
 - $$J=\frac{D(x,y,z)}{D(u,v,w)}=
 \begin{vmatrix}x'_{u}&x'_{v}&x'_{w}\\y'_{u}&y'_{v}&y'_{w}\\z'_{u}&z'_{v}&z'_{w}\end{vmatrix}$$
 - $\Omega \leftrightarrow \Omega_{I}$ 
-- Khi đó:$$I=\iiint\limits_{\Omega_{I}}$$
+- Khi đó:$$I=\iiint\limits_{\Omega_{I}}j$$
