@@ -10,7 +10,9 @@
   &\iiint\limits_{A}f(x,y,z)dxdydz=I\qquad f\;\text{khả tích trên}\;A
   \end{align}$$
 - *Chú ý:* Khả tích $\Leftarrow$ Liên tục $\Leftarrow$ Khả vi. Nhưng **KHÔNG** có ngược lại.
-### 2. Tính chất
+### 2. Cách tính tích phân bộ ba trong hệ toạ độ Decartes
+
+### 3. Tính chất
 - $\iiint(f+g)dxdydz=\iiint f\;dxdydz+\iiint g\;dxdydz$
 - $\iiint\limits_{D_{1}\cup D_{2}}fdv=\iiint\limits_{D_{1}}fdv+\iiint\limits_{D_{2}}fdv$ 
 - Công thức Fubini: $$\iiint\limits_{[a,b]\times[c,d]\times[e,f]}f\;dxdydz=\int_a^bdx\int_c^ddy\int_e^ff(x,y,z)dz$$
