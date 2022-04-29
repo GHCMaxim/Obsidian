@@ -14,4 +14,23 @@
 - Thủ đoạn
 	- Gài bẫy, tung dư luận xấu và bằng chứng giả để cô lập
 	- Bao vây, cấ vận kinh tế, làm suy yếu tiềm lực quốc phòng
-	- 
+	- Nuôi dưỡng phản động, xây dựng lực lượng đối lập, khoét sâu vào tôn giáo, nhân quyền, văn hoá, dân tộc,.... gây mẫu thuẫn mất ổn định chính trị
+- Bảo vệ độc lập, chủ quyền,....
+- Văn kiện Đạo hội Đảng XIII xác định
+	- Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc
+	- Bảo vệ Đảng, Nhà nước, nhân dân và chế độ XHCN
+	- Bảo vệ nền văn hoá dân tộc
+	- Bảo vệ lợi ích quốc gia, dân tộc
+	- Giữ vững môi tường hoà bình, ổn định
+	- Xây dựng xã hội trật tự, kỷ cương an toàn, lành mạnh để phát triển đất nước theo định hướng XHCN
+##### b. Đối tượng của chiến tranh nhân dân bảo vệ tổ quốc
+- Đánh giá tình hình
+	- Trong bối cảnh quốc tế và khu vực có nhiều diễn biến phức tạp, chúng ta vẫn giữ vững độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc, bảo đảm quốc phòng an ninh, trật tự an toàn xã hội
+- Nhận thức về muc tiêu, yêu cầu, quan điểm, phương châm bảo vệ Tổ quốc trong tình hình mới
+	- Mục tiêu và yêu cầu bảo vệ Tổ quốc là bảo vệ lợi ích quốc gia dân tộc, giữ vững chủ quyền biển, đảo, ứng phó với các mối đe doạ an ninh phi truyền thống
+	- Quan điểm bảo vệ Tổ quốc đã xác định rõ vai trò lãnh đạo của Đảng, quản lý của nhà nước
+	- Thực hiện phương châm chỉ đạo: Kiên định về mục tiêu, nguyên tắc chiến lược, linh hoạt, mềm dẻo về ...
+- Nhận thức về đối tác , đối tượng ngày cấngngs tỏ
+	- Tư duy Bạn - Thù
+	- Đối tác: Là những ai tôn trọng độc lập chủ quyền,thiết lập và mở rộng quan hệ hữu nghị, hợp tác bình đẳng, cùng có lợi với Việt Nam đều là đối tác
+	- Đối tượng: Là những lực lượng có "âm mưu, hành động can thiệp,... vào công việc nội bộ, xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, an ninh quốc gia và ổn định chính trị đất nước"
