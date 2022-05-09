@@ -1,5 +1,5 @@
 ### I. Tư tưởng HCM về độc lập dân tộc
-#### 1. Vấn đề độc lập dân tộc
+#### 1. Vấn đề đ   ộc lập dân tộc
 ##### a. Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả dân tộc
 - Lịch sử của dân tộc VN gắn liền với tư tưởng yêu nước, đấu tranh chống lại ngoại xâm, là 1 khát khao của dân tộc, luôn mong muốn độc lập cho dân tộc, tự do cho nhân dân mà HCM là một hiện thân của tinh thần ấy
 - HCM đã thông qua các khảo nghiệm thực tế và các tư tưởng tiến bộ về quyền độc lập, tự do, bình đẳng để viết lên bản tuyên ngôn độc lập trịnh trọng tuyên bố trước quốc dân và thế giới: "Nước VN có quền hưởng tự do độc lập" và sự thực đó đã trở thành nước tự do độc lập. Toàn thể VN đã đem toàn bộ nguồn lực, của cải để giữ được quyền tự do, độc lập ấy.
@@ -20,3 +20,22 @@ $\Rightarrow$ Tư tưởng độc lập dân tộc thống nhất tổ quốc, l
 ##### b. Cách mạng giải phóng dân tộc trong điều kiện của Việt Nam muốn thắng lợi phải do ĐCS lãnh đạo
 - HCM kế thừa quan điểm của chủ nghĩa Mác, người khẳng định vai trò to lớn của Đảng đối với cách mạng giải phóng dân tộc. Trong "Đường cách mệnh", Người viết "Trước hết phải có Đảng cách mệnh để trong vận động, tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi "
 $\Rightarrow$ Chỉ có Đảng mới thực hiện được mục tiêu của Cách mạng, giải phóng giai cấp, con người
+##### c. Cách mạng giải phóng dân tộc phải dựa trên lực lượng đại đoàn kết dân tộc, lấy liên minh công - nông làm nền tảng
+- Quan điểm của chủ nghĩa Mác - Lênin khẳng định cách mạng là sự nghiệp của quần chúng nhân dân. Lênin viết "Không có sự đồng tình ủng hộ của đại đa số nhân dân lao động đối với đội tiền phong cùa mình là giai cấp vô sản thì cách mạng vô sản không thể thực hiện được." 
+- Kế thừa quan điểm trên, HCM khẳng định cách mệnh là việc chung của cả dân chúng chứ không phải việc của một, hai người. Người lý giải dân tộc cách mệnh thì chưa phân giai cấp, phải đoàn kết toàn dân thì cách mạng mới thành công.
+- HCM đánh giá cao vai trò của quần chúng nhân dân trong khởi nghĩa đấu tranh, coi đây là then chốt, đảm bảo thắng lợi cho cách mạng. Trong "Lời kêu gọi toàn quốc kháng chiến" 12/1946, Người viết: "Bất kì đàn ông, đàn bà, bất kì người già người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam là phải đứng lên đánh thực dân Pháp để cứu Tổ quốc."
+- HCM khẳng định công nhân - nông dân là nền tảng, là động lực chủ yếu của cách mạng. Tiểu tư sản, tư sản dân tộc và một bộ phận địa chủ là bạn đồng minh của cách mạng.
+##### d. Cách mạng giải phóng dân tộc cần chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng vô sản chính quốc
+- Theo quan điểm của Quốc tế cộng sản, chỉ có thể thực hiện hoàn toàn công cuộc giải phóng các nước thuộc địa khi giai cấp vô sản giành được thắng lợi ở các nước tư bản tiên tiến
+- HCM cho rằng: Nguyên nhân sâu xa của các cuộc chiến tranh xâm lược thuộc địa là vấn đề thị trường. Trong tác phẩm Bản án chế độ thực dân Pháp - 1925, Người viết: "Chủ nghĩa tư bản là một con đỉa có một cái vòi bám vào giai cấp vô sản ở chính quốc và một cái vòi khác bám vào giai cấp vô sản ở thuộc địa. Nếu muốn giết con vật ấy, người ta phải đồng thời cắt cả hai vòi. Nếu chỉ cắt một vòi thôi, thì cái vòi còn lại vẫn tiếp tục hút máu giai cấp vô sản. Con vật sẽ tiếp tục sống, cái vòi bị cắt đứt lại mọc ra." Như vậy, HCM đã thấy mối quan hệ mật thiết của cách mạng giải phóng dân tộc ở thuộc địa, và cách mạng vô sản chính quốc. Nó tác động qua lại nhau trong cuộc đấu tranh chống kẻ thù chung: Chủ nghĩa đế quốc; là quan hệ bình đẳng không phải lệ thuộc thay chính phủ.
+- Theo HCM, trong cuộc đấu tranh chống CN Đế quốc, cách mạng thuộc địa có tầm quan trọng đặc biệt; Nhân dân thuộc địa có khả năng cách mạng to lớn, Người đã thức tỉnh vấn đề thuộc địa: "Nọc độc và sức sống của con rắn độc TBCN đang tập chung ở các nước thuộc địa hơn là ở chính quốc. Nếu thờ ơ với vấn đề cách mạng thuộc địa thì như đánh rắn đằng đuôi"
+	$\Rightarrow$ Nhân dân thuộc địa có thể thực hiện sự nghiệp tự giải phóng và tự lực gánh sinh
+- HCM còn cho rằng cách mạng giải phóng dân tộc ở thuộc địa có thể dành thắng lợi trước cách mạng vô sản chính quốc. Người nói "Trong khi thủ tiêu một trong những điều kiện tồn tại của CNTB, là chủ nghĩa đế quốc, họ có thể giúp những người anh em mình ở phương Tây trong nhiệm vụ giải phóng hoàn toàn." Tư tưởng này thể hiện HCM là nhà tiên tri đi trước Quốc tế cộng sản.
+$\Rightarrow$ *Đây là đặc điểm sáng tạo, độc đáo, có giá trị lý luận và thực tiễn to lớn. Là cống hiến quan trọng của HCM vào kho tàng lý luận của chủ nghĩa Mác - Lênin được cách mạng tháng Tám /1945 ở Việt Nam và phong trào giải phóng dân tộc trên thế giới chứng minh.*
+##### e. Cách mạng giải phóng dân tộc phải được tiến hành bằng phương pháp bạo lực cách mạng
+- Kế thừa quan điểm về bạo lực cách mạng của Lênin, HCM khẳng định:
+	- Phải sử dụng bạo lực cách mạng chống lại bạo lực phản cách mạng trong đấu tranh giành chính quyền và bảo vệ chính quyền.
+	- Hình thức của bạo lực cách mạng là bạo lực của quần chúng với 2 hình thức đấu tranh là đấu tranh chính trị và đấu tranh vũ trang. Nhưng phải tuỳ tình hình cụ thể mà quyết định những hình thức đấu tranh cách mạng thích hợp, sử dụng đúng và khéo kết hợp các hình thức đấu tranh vũ trang và đấu tranh chính trị để giành thắng lợi cho cách mạng 
+- HCM khẳng định cần tận dụng mọi khả năng giải quyết xung đột bằng phương pháp hoà bình. Chiến tranh là giải pháp bắt buộc cuối cùng. Tư tưởng nhân đạo và hoà bình gắn bó chặt với tư tưởng bạo lực cách mạng. Người chủ trương đấu tranh quân sự phải kết hợp với đấu tranh chính trị ngoại giao, kinh tế, văn hoá, tư tưởng. Phương châm chiến lược là tự lực gánh sinh, là trường kì kháng chiến.
+### II. Tư tưởng HCM về Chủ nghĩa xã hội và xây dựng Chủ nghĩa xã hội ở Việt Nam. (Tự đọc)
+  

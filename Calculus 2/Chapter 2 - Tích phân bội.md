@@ -57,7 +57,7 @@ Phép đổi biến số tổng quát thường được sử dụng trong trư�
 thoả mãn:
 	- $x=x(u,v);y=y(u,v)$ là các hàm số liên tục và có đạo hàm riêng liên tục trong miền đóng $D_{uv}$ của mặt phẳng $O'_{uv}$ .
 	- Công thức $(2.2)$ xác định song ánh từ $D_{uv}\to D$ .
-	- Định thức Jacobi: $J=\frac{D(x,y)}{D(u,v)}=\begin{vmatrix}x'_u&x'_v\\y'_u&y'_v\end{vmatrix}\neq 0 \forall (u,v)\in D_{uv}$
+	- Định thức Jacobi: $J=\frac{D(x,y)}{D(u,v)}=\begin{vmatrix}x'_u&x'_v\\y'_u&y'_v\end{vmatrix}\neq 0 \;\forall (u,v)\in D_{uv}$
 Khi đó, ta có biến số:
 $$I=\iint\limits_{D}f(x,y)dxdy=\iint\limits_{D_{uv}}f(x(u,v),y(u,v))\left|J\right|dudv$$
 - ***Chú ý***:

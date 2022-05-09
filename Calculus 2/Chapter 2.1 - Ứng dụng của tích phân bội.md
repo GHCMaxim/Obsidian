@@ -24,4 +24,5 @@ $$S_{(D)}=\iint\limits_{D}dxdy$$
 	- Example 5: $D$ giới hạn bởi lá Decartes: $x^{3}+y^{3}=axy$ 
 		- Đổi sang toạ độ cực
 		- $$\begin{align}&\begin{cases}0\leq \varphi\leq \frac{\pi}{2}\\0\leq r\leq \frac{aSin\varphi Cos\varphi}{Sin^{3}\varphi+Cos^{3}\varphi}\end{cases}\\&r^{3}(Cos^{3}\varphi+Sin^{3}\varphi)=ar^{2}Sin\varphi Cos\varphi\\&S(D)=\int_{0}^{\frac{\pi}{2}}d\varphi\int_{0}^{\frac{aSin\varphi Cos\varphi}{Sin^{3}\varphi+Cos^{3}\varphi}}rdr=\frac{a^{2}}{2}\int_{0}^{\frac{\pi}{2}}\frac{Sin\varphi Cos\varphi}{(Sin^{3}\varphi+Cos^{3}\varphi)^{2}}d\varphi\\&\text{Đặt}\;t=tan\varphi \Rightarrow \frac{a^{2}}{2} \frac{1}{3}\int_{0}^{+\infty}\left(\frac{d(t^{3}+1)}{(t^3+1)^2}\right)\Biggr|_{0}^{+\infty}=\frac{a^{2}}{6}\end{align}$$
-		
+#### 3. Tính diện tích mặt cong
+Diện tích mặt cong $z=z(x,y)$ có hình chiếu lê mặt phẳng $Oxy$ là miền $D$, được xác định bởi công thức:$$S=\iint\limits_{D}\sqrt{1+(z_{x}')^{2}+(z'_{y})^{2}}\;dxdy$$
