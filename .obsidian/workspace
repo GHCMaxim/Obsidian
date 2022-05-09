@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundamental Physics/Chương 4 - Hệ chất điểm.md",
+            "file": "Fundamental Physics/Cơ 2/Chương 2 - Trường tĩnh điện.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Physics/Chương 4 - Hệ chất điểm.md",
+                "file": "Fundamental Physics/Cơ 2/Chương 2 - Trường tĩnh điện.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "5cb910033d37c927",
   "lastOpenFiles": [
-    "Fundamental Physics/Chương 4 - Hệ chất điểm.md",
+    "Fundamental Physics/Cơ 2/Chương 2 - Trường tĩnh điện.md",
+    "Fundamental Physics/Điện từ học 1.md",
+    "Fundamental Physics/Fundamental Physics 1 - PFIEV.md",
+    "Fundamental Physics/Cơ học 1.md",
+    "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
     "TTHCM/Chương 4 -.md",
     "ANQP/Bài 4.md",
-    "Fundamental Physics/Cơ học 1.md",
     "Fundamental Physics 1 - PFIEV.md",
     "French - VP3/Unite 8/Situation 1.md",
-    "Calculus 2/Chapter 2 - Tích phân bội.md",
-    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
-    "Calculus 2/Chapter 3 - Tích phân bội 3.md",
-    "Calculus 2/Chapter 2.1 - Ứng dụng của tích phân bội.md"
+    "Calculus 2/Chapter 2 - Tích phân bội.md"
   ]
 }
