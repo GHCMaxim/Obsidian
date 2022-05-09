@@ -76,3 +76,12 @@ Và $$W_{(1\to 2)int}=\mathscr{E}_{p\;int}(r_1)-\mathscr{E}_{p\;int}(r_2)\qquad(
 - Công toàn phần của nội lực và ngoại lực: $$W=-\Delta\mathscr{E}_p+W_{nc}\qquad(6)$$
 	- $W_{nc}$ là công của các lực không bảo toàn (nội và ngoại lực)
 ### 6. Cơ năng và định luật bảo toàn cơ năng
+#### 1. Cơ năng
+##### a. Định nghĩa
+$$\mathscr{E}_{M}=\mathscr{E}_{p_{int}}+\mathscr{E}_{p_{ext}}+\mathscr{E}_{k}\qquad(1)$$
+##### b. Hệ bảo toàn
+$$\Delta\mathscr{E}_{M}=W_{nc}=0\qquad(2)$$
+$$\frac{d\mathscr{E}_{M}}{dt}=\mathscr{P}_{nc}=0\qquad(3)$$
+#### 2. Sự bảo toàn cơ năng (tích phân đầu của năng lượng)
+- Cơ năng của một hệ bảo toàn là không đổi: $\mathscr{E}_{M}=\text{const}\qquad(4)$
+-    
