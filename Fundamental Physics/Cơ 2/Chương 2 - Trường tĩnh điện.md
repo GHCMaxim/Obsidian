@@ -30,7 +30,7 @@ $$\overrightarrow{E}_{\mathscr{D}}(M)=\frac{1}{4\pi\epsilon_0}\iint_\mathscr{D}\
 ### 1. Các phép đối xứng cơ bản:
 #### a. Phép đối xứng phẳng:
 - Phân bố diện tích $\mathscr{D}$ là bất biến đối với phép đối xứng phẳng qua một mặt phẳng II 
-	- Trên một mặt phẳng - gương II của phân bố $\mathscr{D}$, trường tĩnh điện tạo ra là song song với mặt phẳng $\Pi$
+	- Trên một mặt phẳng - gương II của phân bố $\mathscr{D}$, t.rường tĩnh điện tạo ra là song song với mặt phẳng $\Pi$
 	- Tại các điểm M và M' đối xứng qua mặt phẳng - gương $\Pi$ của phân bố $\mathscr{D}$, các trường tĩnh điện $\overrightarrow{E}$ và $\overrightarrow{E'}$ là đối xứng với nhau qua mặt phẳng $\Pi$
 #### b.  Phép phản đối xứng phẳng:
 - Phân bố điện tích $\mathscr{D}$ là bất biến đối với một phép phản đối xứng phẳng qua một mặt phẳng phản đối xứng $\Pi^{*}$ 

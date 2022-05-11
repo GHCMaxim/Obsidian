@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
+            "file": "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
+                "file": "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "40d30bff0eca772f",
   "lastOpenFiles": [
+    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+    "README.md",
+    "Fundamental Physics/Cơ 2/Chương 2 - Trường tĩnh điện.md",
+    "Law of Economics - Day 2.md",
+    "Excalidraw/Drawing 2022-05-11 15.19.10.excalidraw.md",
     "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
     "Fundamental Physics/Cơ 1/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
     "conflict-files-obsidian-git.md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
-    "Calculus 2/Chapter 1 - Ứng dụng phép toán vi phân.md",
-    "Calculus 2/Chapter 3 - Tích phân bội 3.md",
-    "Calculus 2/Chapter 2.5 - Các dạng bài tập.md",
-    "Calculus 2/Chapter 2.1 - Ứng dụng của tích phân bội.md",
-    "Calculus 2/Chapter 2.2 - Giải BT đề cương.md",
-    "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md"
+    "Calculus 2/Chapter 1 - Ứng dụng phép toán vi phân.md"
   ]
 }
