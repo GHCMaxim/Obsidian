@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus 2/Chapter 3 - Tích phân bội 3.md",
+            "file": "Calculus 2/Chương 3 - Tích phân phụ thuộc tham số.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/Chapter 3 - Tích phân bội 3.md",
+                "file": "Calculus 2/Chương 3 - Tích phân phụ thuộc tham số.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,8 @@
   },
   "active": "40d30bff0eca772f",
   "lastOpenFiles": [
-    "Calculus 2/Chapter 3 - Tích phân bội 3.md",
+    "Calculus 2/Chương 3 - Tích phân phụ thuộc tham số.md",
+    "Calculus 2/Chapter 2.7 - Tích phân bội 3.md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
     "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
     "README.md",
@@ -113,7 +114,6 @@
     "Law of Economics - Day 2.md",
     "Excalidraw/Drawing 2022-05-11 15.19.10.excalidraw.md",
     "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
-    "Fundamental Physics/Cơ 1/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
-    "conflict-files-obsidian-git.md"
+    "Fundamental Physics/Cơ 1/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md"
   ]
 }
