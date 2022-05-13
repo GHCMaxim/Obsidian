@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+            "file": "Calculus 2/Chapter 2 - Tích phân bội.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
+                "file": "Calculus 2/Chapter 2 - Tích phân bội.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "40d30bff0eca772f",
   "lastOpenFiles": [
+    "Calculus 2/Chapter 2 - Tích phân bội.md",
     "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
     "README.md",
     "Fundamental Physics/Cơ 2/Chương 2 - Trường tĩnh điện.md",
@@ -113,7 +114,6 @@
     "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
     "Fundamental Physics/Cơ 1/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
     "conflict-files-obsidian-git.md",
-    "Calculus 2/Chapter 2 - Tích phân bội.md",
     "Calculus 2/Chapter 1 - Ứng dụng phép toán vi phân.md"
   ]
 }
