@@ -27,3 +27,6 @@ Cách tính: Đưa về 3 tích phân xác định theo từng biến (tích ph�
 \begin{vmatrix}x'_{u}&x'_{v}&x'_{w}\\y'_{u}&y'_{v}&y'_{w}\\z'_{u}&z'_{v}&z'_{w}\end{vmatrix}$$
 - $\Omega \leftrightarrow \Omega_{I}$ 
 - Khi đó:$$I=\iiint\limits_{\Omega_{I}}j$$
+### 4. Ứng dụng của tích phân bội 3
+- Tính thể tích vật thể E: $$V_{\Omega}=\iiint\limits_D dxdydz$$
+- 
