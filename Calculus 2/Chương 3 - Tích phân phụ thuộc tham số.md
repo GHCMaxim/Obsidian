@@ -11,4 +11,6 @@ là một hàm số xác định trên $[c,d]$ và được gọi là một tíc
 	- $f(x,y)$ là hàm số liên tục trên $[a,b]\times[c,d]$
 	- $f'_{y}(x,y)$ là àm số liên tục trên $[a,b]\times[c,d]$
 thì $l(y)$ là hàm số khả vi trên $(c,d)$ và:$$l'(y)=\left(\int\limits_{a}^{b}f(x,y)dx\right)'_{y}=\int\limits_{a}^{b}f'_{y}(x,y)dx$$
- 
+#### c. Tính khả tích
+- Nếu $f(x,y)$ là hàm số liên tục trên $[a,b]\times[c,d]$ thì $l(y)$ là hàm số khả tích trên $[c,d]$ và$$\int\limits_{c}^{d}l(y)dy=\int\limits_{c}^{d}\left(\int\limits_{a}^{b}f(x,y)dx\right)dy=\int\limits_{a}^{b}\left(\int\limits_{c}^{d}f(x,y)dy\right)dx$$
+- 
