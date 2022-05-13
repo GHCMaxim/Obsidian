@@ -6,4 +6,9 @@ là một hàm số xác định trên $[c,d]$ và được gọi là một tíc
 ### 1.2 Tính chất
 #### a. Tính liên tục
 - Định lý: Nếu $f(x,y)$ là hàm số liên tục trên $[a,b]\times[c,d]$ thì $l(y)$ là hàm số liên tục trên $[c,d]$:$$\lim_{y\to y_0}l(y)=\lim_{y\to y_0}\int\limits_{a}^{b}f(x,y)dx=\int\limits_{a}^{b}f(x,y_{0})dx=l(y_{0})$$
-- 
+#### b. Tính khả vi
+- Nếu:
+	- $f(x,y)$ là hàm số liên tục trên $[a,b]\times[c,d]$
+	- $f'_{y}(x,y)$ là àm số liên tục trên $[a,b]\times[c,d]$
+thì $l(y)$ là hàm số khả vi trên $(c,d)$ và:$$l'(y)=\left(\int\limits_{a}^{b}f(x,y)dx\right)'_{y}=\int\limits_{a}^{b}f'_{y}(x,y)dx$$
+ 
