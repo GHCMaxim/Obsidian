@@ -11,7 +11,7 @@ HW:AD6 - BT4,11
 	- Khối lượng toàn phần của $S$ ($m=\sum\limits_{i=1}^{n}m_i$)
 - Các lực: $\overrightarrow{F}_{M_i}\to M_i$ ; $\overrightarrow{F}_{\mathscr{E}\to M_i}$ ; $\overrightarrow{F}_{\mathscr{E}\to S}$ 
 - Tâm tỉ cự: (Khối tâm - Tâm quán tính) $G$ 
-	- Định nghĩa: Điểm $G$ à tâm tỉ cự của hệ $S$ gồm n chất điểm:$$\sum\limits_{i}m_{i}.\overrightarrow{GM_{i}}=\overrightarrow{0}\qquad (1)$$
+	- Định nghĩa: Điểm $G$ là tâm tỉ cự của hệ $S$ gồm n chất điểm:$$\sum\limits_{i}m_{i}.\overrightarrow{GM_{i}}=\overrightarrow{0}\qquad (1)$$
 	-   Tọa độ điểm $G$: $$(1)\Rightarrow \overrightarrow{OG}=\frac{1}{m}\sum\limits_{i}m_{i}.\overrightarrow{OM_{i}} (m=\sum\limits_{i}m_{i}) \qquad (2)$$
 	- Vận tốc của tâm tỉ cự:$$\overrightarrow{v}_{G}=\overrightarrow{v}(G)=\frac{1}{m}\sum\limits_i m_i . \overrightarrow{v}_i$$
 - Sự tổng hợp các tâm tỉ cự:
