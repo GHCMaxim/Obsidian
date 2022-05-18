@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
+            "file": "Fundamental Physics/Điện từ 1/Chương 2 - Trường tĩnh điện.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
+                "file": "Fundamental Physics/Điện từ 1/Chương 2 - Trường tĩnh điện.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +105,8 @@
   },
   "active": "40d30bff0eca772f",
   "lastOpenFiles": [
-    "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
     "Fundamental Physics/Điện từ 1/Chương 2 - Trường tĩnh điện.md",
+    "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
     "Calculus 2/Chương 3 - Tích phân phụ thuộc tham số.md",
     "Calculus 2/Chapter 2.7 - Tích phân bội 3.md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
