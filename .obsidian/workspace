@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundamental Physics/Điện từ 1/Chương 2 - Trường tĩnh điện.md",
+            "file": "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Physics/Điện từ 1/Chương 2 - Trường tĩnh điện.md",
+                "file": "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
   },
   "active": "40d30bff0eca772f",
   "lastOpenFiles": [
+    "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
     "Fundamental Physics/Điện từ 1/Chương 2 - Trường tĩnh điện.md",
     "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
     "Calculus 2/Chương 3 - Tích phân phụ thuộc tham số.md",
@@ -113,7 +115,6 @@
     "Calculus 2/Chapter 2 - Tích phân bội (Simplified).md",
     "README.md",
     "Law of Economics - Day 2.md",
-    "Excalidraw/Drawing 2022-05-11 15.19.10.excalidraw.md",
-    "Fundamental Physics/Cơ 1/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md"
+    "Excalidraw/Drawing 2022-05-11 15.19.10.excalidraw.md"
   ]
 }
