@@ -51,3 +51,12 @@ $$\Gamma(p)=\int\limits_{0}^{+\infty}x^{p-1}e^{-x}dx$$ xác định trên: $(0,+
 		Đặc biệt: $\begin{cases}\Gamma(1)=1\\\Gamma(\frac{1}{2})=\sqrt(\pi)\end{cases}$ nên $\begin{cases}\Gamma(n)=(n-1)!\\\Gamma(n+\frac{1}{2}=\frac{(2n-1)!!}{2^{n}}\sqrt(\pi)\end{cases}$ 
 	2. Đạo hàm của hàm Gamma: $\Gamma^{(k)}(p)=\int\limits_{0}^{+\infty}x^{p-1}(ln^{k}x)e^{-x}dx$ 
 	3. $\Gamma(p)\Gamma(1-p)=\frac{\pi}{sin p\pi} \;\forall\; 0<p<1$ 
+### 3.2 Hàm Beta
+- Dạng 1: $B(p,q)=\int\limits_{0}^{1}x^{p-1}(1-x)^{q-1}dx$ 
+- Dạng 2: $B(p,q)=\int\limits_{0}^{+\infty}\frac{x^{p-1}}{(1+x)^{p+q}}dx$
+- Dạng 3: $B(p,q)=2\int\limits_{0}^{\frac{\pi}{2}}Sin^{2p-1}xCos^{2q-1}xdx$
+Mối liên hệ giữa hàm Gamma và Beta:
+	1. $B(p,q)=\frac{\Gamma(p)\Gamma(q)}{\Gamma(p+q)}$
+	2. $B(p,1-p)=\Gamma(p)\Gamma(1-p)=\frac{\pi}{sin p\pi}$
+Các tính chất:
+	1. 
