@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus 2/Chương 3 - Tích phân phụ thuộc tham số.md",
+            "file": "Calculus 2/Chương 4 - Tích phân đường.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/Chương 3 - Tích phân phụ thuộc tham số.md",
+                "file": "Calculus 2/Chương 4 - Tích phân đường.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "40d30bff0eca772f",
   "lastOpenFiles": [
+    "Calculus 2/Chương 4 - Tích phân đường.md",
+    "Calculus 2/Calculus 2 - NN1.md",
     "Calculus 2/Chương 3 - Tích phân phụ thuộc tham số.md",
     "Calculus 2/Chapter 1 - Ứng dụng phép toán vi phân.md",
     "Calculus 2/Chapter 2 - Tích phân bội.md",
@@ -112,8 +114,6 @@
     "TTHCM/Chương 2 - Cơ sở, quá trình hình thành và phát triển TTHCM.md",
     "TTHCM/Tư tưởng Hồ Chí Minh.md",
     "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
-    "Fundamental Physics/Điện từ 1/Chương 2 - Trường tĩnh điện.md",
-    "Fundamental Physics/Cơ 1/Chương 4 - Hệ chất điểm.md",
-    "Calculus 2/Chapter 2.7 - Tích phân bội 3.md"
+    "Fundamental Physics/Điện từ 1/Chương 2 - Trường tĩnh điện.md"
   ]
 }
