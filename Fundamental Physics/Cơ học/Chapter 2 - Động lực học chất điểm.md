@@ -88,7 +88,7 @@ $$\overrightarrow{R}.\overrightarrow{n}\geq 0\quad \quad \overrightarrow{R} \; \
 $$\overrightarrow{R}=\overrightarrow{R}_1+\overrightarrow{R}_{//},\;\overrightarrow{R}_{//}=\overrightarrow{0}$$
 ![[Pasted image 20220410192620.png]]
 ### IV. Động lượng, định lý động lượng
-#### 1. động lượng
+#### 1. Động lượng
 - Động lượng đối với hệ quy chiếu R của một chất điểm M có khối lượng m và vận tốc $\overrightarrow{v}(M)_{/R}$ là: $$\begin{align}&\overrightarrow{p}(M)_{/R}=m.\overrightarrow{v}(M)_{/R}\\\text{or} \;&\overrightarrow{p}=m.\overrightarrow{v}\end{align}$$
 #### 2. Định lý về động lượng
 $$\begin{align}&\overrightarrow{F}_{\mathscr{C}\to M}=(\frac{d\overrightarrow{p}(M)_{/R}}{dt})_{/R}=\frac{d\overrightarrow{p}}{dt}\\\text{với}\;&\overrightarrow{F}_{\mathscr{C}\to M}\;\text{là dạng khác của định luật 2 Newton}\end{align}$$

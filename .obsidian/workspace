@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundamental Physics/Cơ học/Chapter 1 - Động học.md",
-            "mode": "preview",
+            "file": "Fundamental Physics/Cơ học/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Physics/Cơ học/Chapter 1 - Động học.md",
+                "file": "Fundamental Physics/Cơ học/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "a54525af77279df5",
   "lastOpenFiles": [
-    "Fundamental Physics/Cơ học/Chapter 1 - Động học.md",
-    "Fundamental Physics/Cơ học/Chapter 2 - Động lực học chất điểm.md",
     "Fundamental Physics/Cơ học/Chương 3 - Công suất và năng lượng trong hệ quy chiếu Galile.md",
+    "Fundamental Physics/Cơ học/Chapter 2 - Động lực học chất điểm.md",
+    "Fundamental Physics/Cơ học/Chapter 1 - Động học.md",
     "Fundamental Physics/Cơ học/Chương 4 - Hệ chất điểm.md"
   ]
 }
