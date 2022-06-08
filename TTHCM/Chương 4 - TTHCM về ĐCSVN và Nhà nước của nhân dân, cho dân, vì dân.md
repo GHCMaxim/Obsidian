@@ -55,5 +55,14 @@ $\Rightarrow$ HCM cảnh báo một dân tộc, một Đảng và mỗi con ngư
 		- Bằng quan điểm chủ trương, đường lối, để Nhà nước thể chế hoá thành pháp luật, chính sách, kế hoạch
 		- Bằng hoạt động của các tổ chức Đảng, và Đảng viên của mình trong bộ máy cơ quan nhà nước
 		- Bằng công tác kiểm tra
-	- Bản chất giai cấp của Nhà nước thể hiện ở tính định hướng đi lên CNXH trong quá trình phát triển đất nước.
+- Bản chất giai cấp của Nhà nước thể hiện ở tính định hướng đi lên CNXH trong quá trình phát triển đất nước.
 	- Bản chất giai cấp công nhân của Nhà nước thể hiện ở nguyên tắc tổ chức và hoạt động của nó là nguyên tắc tập trung dân chủ
+	- Bản chất giai cấp công nhân của Nhà nước thống nhất với tính nhân dân và tính dân tộc. Điều này được thể hiện:
+		- Nhà nước Việt Nam ra đời là kết quả của cuộc đấu tranh lâu dài, gian khổ của nhiều thế hệ người Việt Nam, của toàn thể dân tộc Việt Nam.
+		- Nhà nước Việt Nam ngay từ khi ra đời đã xác định và luôn kiên trì nhất quán mục tiêu vì quyền lợi của nhân dân lấy quyền lợi của dân tộc làm nền tảng, Hồ Chí Minh khẳng định quyền lợi cơ bản của giai cấp công nhân thống nhất với lợi ích của nhân dân lao động và của toàn dân tộc.
+		- Trong thực tế, Nhà nước Việt Nam mới đã đảm đương nhiệm vụ mà toàn thể dân tộc giao phó là tổ chức nhân dân tiến hành các cuộc kháng chiến để bảo vệ nền độc lập tự do của tổ quốc xây dựng một nước Viêt Nam hoà bình, thống nhất, độc lập, dân chủ, giàu mạnh, góp phần tích cực vào sự phát triển tiến bộ của thế giới
+#### b. Nhà nước của nhân dân
+- Nhà nước của nhân dân được khẳng định: "Là nhà nước của tất cả mọi quyển lực trong nhà nước và xã hội đều thuộc về nhân dân." Nhà nước của dân tức là dân là chủ, khẳng định địa vị chủ thể tối cao của quyền lực là thuộc về nhân dân. Trong nhà nước dân chủ, nhân dân thực thi quyền lực thông qua 2 hình thức:
+	- *Dân chủ trực tiếp*: là hình thức trong đó nhân dân trực tiếp quyết định các vấn đề liên quan đến vận mệnh quốc gia, dân tộc và quyền lợi của mình. Nó là hình thức hoàn mị nhất 
+	- *Dân chủ gián tiếp*: Là hình thức nhân dân thực thi quyền lực của mình thông qua các đại biểu mà họ lựa chọn bầu lên. Hình thức dân chủ gián tiếp được thể hiện:
+		- 
