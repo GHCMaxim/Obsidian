@@ -46,3 +46,4 @@ $\Rightarrow$ HCM cảnh báo một dân tộc, một Đảng và mỗi con ngư
 	- Phải có mỗi liên hệ mật thiết với nhân dân
 	- Phải luôn chịu trách nghiệm, năng động, sáng tạo
 	- Phải là những người luôn phòng và chống các tiêu cực. Người nói: "Kẻ địch bên trong là bạn đồng minh của kẻ địch bên ngoài. Địch bên ngoài không đáng sợ, địch bên trong đáng sợ hơn, vì nó phá hoại từ trong phá ra"
+- Hồ Chí Minh nhận thức và đánh giá cao vị trí vai trò của cán bộ trong sự nghiệp cách mạng. Cán bộ đuọc coi là dây chuyền của bộ máy, là khâu trung gian nối liên Đảng, nhà nước và nhân dân. Vì vậy, công tác cán bộ là công tác gốc của Đảng. Muôn việc thành công hay thất bại là do cán bộ tốt hoặc kém. Người đặc biệt lưu ý đào tạo cán bộ phải chú ý đến cả đức và tài. Người nhấn mạnh phải thấm nhuần đạo đức cách mạng. Đó là điều kiện để xây dựng thành công CNXH.
