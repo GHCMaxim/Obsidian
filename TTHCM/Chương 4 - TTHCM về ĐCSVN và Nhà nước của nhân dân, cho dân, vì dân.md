@@ -33,3 +33,14 @@ $\Rightarrow$ HCM cảnh báo một dân tộc, một Đảng và mỗi con ngư
 - Kỉ luật nghiêm minh và tự giác
 	- Theo Hồ Chí Minh, sức mạnh vô địch của một tổ chức cộng sản là ở tinh thần tự giác, là ý thức tổ chức kỉ luật nghiêm minh của cán bộ Đảng viên, tính nghiêm minh thuộc về tổ chức Đảng, tính tự giác thuộc về ý thức của cán bộ Đảng viên đối với Đảng. Đảng viên dù cương vị nào, cấp uỷ nào đều phải chấp hành nghiêm túc kỷ luật của Đảng. Nghiêm minh thuộc về tổ chức Đảng, đó là kỷ luật đối với cán bộ Đảng viên. Đảng viên phải chấp hành các nghị quyết chủ trương, nguyên tắc tổ chức và sinh hoạt Đảng. Người nhấn mạnh, Đảng phải giữ kỉ luật nghiêm từ trên xuống dưới. Kỉ luật này là tư tưởng phải nhất trí, hành động phải nhất trí.
 - Đảng phải thường xuyên ... bởi quyền lực của Đảng là do giai cấp công nhân, nhân dân lao động và toàn dân tộc giao phó, vì vậy, Đảng phải không ngừng tự chỉnh đốn bản thân. Đảng không có mục đích tự thân, không phải là một tổ chức để làm quan, phát tài, mà mọi hoạt động của Đảng phải vì tổ quốc giàu mạnh, đồng bào xung sướng. Vì vậy, trong quá trình lãnh đạo dân tộc, Đảng phải thường xuyên tự chỉnh đốn
+- Đoàn kết thống nhất trong Đảng là điều kiện để xây dựng khối đại đoàn kết toàn dân tộc mà cơ sở của nó là đường lối quan điểm và điều lệ Đảng. Điều đó tạo nên sự thống nhất về tư tưởng, tổ chức và hành động của Đảng nhằm đưa quan điểm chủ trương đường lối của Đảng thành hành động cách mạng của quần chúng. Người yêu cầu phải thực hiện và mở rộng dân chủ để Đảng viên có thể tham gia bàn bạc những vấn đề hệ trọng trong Đảng. 
+- Đảng phải liên hệ mật thiết với nhân dân, bởi ĐCSVN là một bộ phận của toàn thể dân tộc Việt Nam. Mối quan hệ của Đảng, giai cấp công nhân và nhân dân Việt Nam là mối quan hệ khăng khít máu thịt. Hồ Chí Minh đã nhiều lần phê bình cán bộ Đảng viên vác mặt quan cách mạng xâm phạm quyền làm chủ của nhân dân. Người nêu quan điểm nếu nước nhà độc lập mà dân không được hưởng hạnh phúc tự do thì độc lập cũng chẳng có ý nghĩa gì. Vì vậy, Đảng phải đặt lợi ích của nhân dân, của dân tộc lên trên hết. Nếu xa dân, không liên hệ máu thịt với nhân dân, thì sẽ thất bại. Mất lòng tin sẽ mất tất cả...
+- Đoàn kết quốc tế
+	- Phải tăng cường đoàn kết quốc tế trong sáng, bởi Hồ Chí Minh coi cách mạng Việt Nam là bộ phận khăng khít của cách mạng thế giới
+#### 4. Xây dựng đội ngũ cán bộ Đảng viên
+- Hồ Chí Minh lưu ý cán bộ Đảng viên phải vừa có đức, vừa có tài, phải trong sạch vững mạnh. Người đưa ra yêu cầu sau:
+	- Tuyệt đối trung thành với Đảng
+	- Phải là những người nghiêm chỉnh, thực hiện cương lĩnh đường lối, quan điểm chủ trương, nghị quyết và các nguyên tắc xây dựng Đảng
+	- Phải luyên tu dưỡng rèn luyện, chau dồi đạo đức cách mạng.
+	- Luôn học tập nâng cao trình độ về mọi mặt
+	- Phải có mỗi liên hệ mật thiết với nhân dân
