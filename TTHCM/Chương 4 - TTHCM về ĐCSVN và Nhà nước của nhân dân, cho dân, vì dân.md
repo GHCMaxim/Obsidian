@@ -44,3 +44,5 @@ $\Rightarrow$ HCM cảnh báo một dân tộc, một Đảng và mỗi con ngư
 	- Phải luyên tu dưỡng rèn luyện, chau dồi đạo đức cách mạng.
 	- Luôn học tập nâng cao trình độ về mọi mặt
 	- Phải có mỗi liên hệ mật thiết với nhân dân
+	- Phải luôn chịu trách nghiệm, năng động, sáng tạo
+	- Phải là những người luôn phòng và chống các tiêu cực. Người nói: "Kẻ địch bên trong là bạn đồng minh của kẻ địch bên ngoài. Địch bên ngoài không đáng sợ, địch bên trong đáng sợ hơn, vì nó phá hoại từ trong phá ra"
