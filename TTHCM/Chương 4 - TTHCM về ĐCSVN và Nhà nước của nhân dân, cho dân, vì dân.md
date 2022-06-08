@@ -47,3 +47,13 @@ $\Rightarrow$ HCM cảnh báo một dân tộc, một Đảng và mỗi con ngư
 	- Phải luôn chịu trách nghiệm, năng động, sáng tạo
 	- Phải là những người luôn phòng và chống các tiêu cực. Người nói: "Kẻ địch bên trong là bạn đồng minh của kẻ địch bên ngoài. Địch bên ngoài không đáng sợ, địch bên trong đáng sợ hơn, vì nó phá hoại từ trong phá ra"
 - Hồ Chí Minh nhận thức và đánh giá cao vị trí vai trò của cán bộ trong sự nghiệp cách mạng. Cán bộ đuọc coi là dây chuyền của bộ máy, là khâu trung gian nối liên Đảng, nhà nước và nhân dân. Vì vậy, công tác cán bộ là công tác gốc của Đảng. Muôn việc thành công hay thất bại là do cán bộ tốt hoặc kém. Người đặc biệt lưu ý đào tạo cán bộ phải chú ý đến cả đức và tài. Người nhấn mạnh phải thấm nhuần đạo đức cách mạng. Đó là điều kiện để xây dựng thành công CNXH.
+## II. Tư tưởng HCM về nhà nước, của nhân dân, do nhân dân,vì nhân dân
+### 1. Nhà nước dân chủ
+#### a. Bản chất giai cấp của nhà nước
+- Hồ Chí Minh khẳng định: Nhà nước luôn mang bản chất giai cấp và Nhà nước Việt Nam mới là Nhà nước Việt Nam dân chủ cộng hoà, là nhà nước mang bản chất giai cấp công nhân, được thể hiện ở mấy phương diện sau:
+	- Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền. Đảng Việt Nam cầm quyền bằng các phương thức sau:
+		- Bằng quan điểm chủ trương, đường lối, để Nhà nước thể chế hoá thành pháp luật, chính sách, kế hoạch
+		- Bằng hoạt động của các tổ chức Đảng, và Đảng viên của mình trong bộ máy cơ quan nhà nước
+		- Bằng công tác kiểm tra
+	- Bản chất giai cấp của Nhà nước thể hiện ở tính định hướng đi lên CNXH trong quá trình phát triển đất nước.
+	- Bản chất giai cấp công nhân của Nhà nước thể hiện ở nguyên tắc tổ chức và hoạt động của nó là nguyên tắc tập trung dân chủ
