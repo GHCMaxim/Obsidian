@@ -10,4 +10,10 @@
 - ĐCSVN phải có sứ mệnh thức tỉnh tập hợp giác ngộ quần chúng, chuyển nhu cầu đòi hỏi khách quan tự phát của quần chúng thành hiện thực có tổ chức trong khối đại đoàn kết tạo thành sức mạnh tổng hợp trong cuộc đấu tranh vì độc lập của dân tộc tự do cho nhân dân và hạnh phúc cho con người
 ### 2. Lực lượng khối đoàn kết toàn dân tộc
 - Chủ thể của khối Đại đoàn kết toàn dân tộc theo HCM bao gồm toàn bộ nhân dân. Dân và nhân dân trong quan niệm HCM vừa chỉ một người dân cụ thể, vừa chỉ một lực lượng, một tập hợp quần chúng đông đảo. Họ là chủ thể của khối đại đoàn kết toàn dân tộc. Người ta dùng khái niệm này, để chỉ mọi con dân nước Việt đều là con rồng cháu tiên, con lạc cháu hồng, không phân biệt dân tộc, giai cấp, tầng lớp, đảng phái, tôn giáo, lứa tuổi, nghề nghiệp, giới tính,... ở trong nước hay ngoài nước "Ai có tài, có đức, có sức, có lòng phụng sự tổ quốc vì ... đoàn kết xã hội"
-- 
+- Phải đứng trên lập trường giai cấp công nhân giải quyết hài hoà mối quan hệ dân tộc giai cấp để tập hợp lực lượng không bỏ sót bất cứ một lực lượng nào
+#### b. Nền tảng khối đại đoàn kết toàn dân tộc
+- HCM đã khẳng định: "Đại đoàn kết tức là trước hết phải đoàn kết đại đa số nhân dân mà đại đa số là công nhân, nông dân và các tầng lớp lao động khác. Đó là nền gốc của đại đoàn kết" Như vậy, nền tảng của khối đoàn kết toàn dân tộc là công nông dân trí thức, đồng thời phải chú ý đến hạt nhân của đại đoàn kết toàn dân tộc đó là sự đoàn kết thống nhất trong Đảng
+### 3. Điều kiện để xây dựng khối đại đoàn kết toàn dân tộc
+- Kế thừa truyền thống yêu nước khiêm với đoàn kết của đại dân tộc
+- Phải có tấm lòng khoan dung độ lượng với con người. Người từng căn dặn: "Năm ngón tay có ngón ngắn ngón dài nhưng vắn dài đều khọp lại nơi bàn tay. Trong mấy triệu người cũng có người thế này hay thế khác. Nhưng thế này hay thế khác đều là dòng dõi tổ tiên ta. Vậy nên ta phải khoan hồng đại độ... Có như thế mới thành đại đoàn kết. Có đại đoàn kết chắc chắn sẽ vẻ vang"
+- Phải có niềm tin vào nhân dân, yêu dân tin dân, dựa vào dân. Sống phấn đấu vì hạnh phúc của nhân dân là nguyên tắc tối cao của HCM.p
