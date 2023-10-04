@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "c904e45398f146d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3a1563c97a7456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a54525af77279df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a68e43c8825ecb37",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "ab4e54e947a04872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTKH/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc531448e8b1075b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ea797006298cdb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98dd137db497e3cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16d9582631696c80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb30f0d0f57083cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d4210c16888cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eaa0067ac55cc14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TTKH/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98dd137db497e3cc",
+  "lastOpenFiles": [
+    "TTHCM/Chương 3 - Tư tưởng HCM về độc lập dân tộc và Chủ nghĩa xã hội.md",
+    "TTHCM/Chương 2 - Cơ sở, quá trình hình thành và phát triển TTHCM.md",
+    "TTHCM/Chương 1 - Khái niệm, đối tượng, phương pháp và ý nghĩa học tập.md",
+    "TTHCM/Chương 6 - TTHCM về văn hoá, đạo đức, và xây dựng con người mới.md",
+    "TTHCM/Chương 5 - Tư tưởng HCM về đại đoàn kết toàn dân tộc và điều kiện quốc tế.md",
+    "Fundamental Physics/Điện từ 1/Chương 4 - Định lý Gauss.md",
+    "Fundamental Physics/Điện từ 1/Chương 6 - Từ trường tĩnh.md",
+    "Calculus 2/Chapter 1.5 - Các dạng bài tập.md",
+    "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
+    "Fundamental Physics/Cơ học/Chương 4 - Hệ chất điểm.md"
+  ]
+}
