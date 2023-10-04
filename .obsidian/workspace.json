@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI - UX/Week 3.md",
+                "file": "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,9 +67,11 @@
             "id": "6a821b7ac20eeb60",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI - UX/Week 3.md",
+                "file": "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
   "lastOpenFiles": [
     "Calculus 2/Chapter 1 - Ứng dụng phép toán vi phân.md",
     "Calculus 2/Chapter 1.5 - Các dạng bài tập.md",
-    "UI - UX/Week 3.md",
+    "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
     "UI - UX",
     "TTHCM/Chương 3 - Tư tưởng HCM về độc lập dân tộc và Chủ nghĩa xã hội.md",
     "TTHCM/Chương 2 - Cơ sở, quá trình hình thành và phát triển TTHCM.md",
