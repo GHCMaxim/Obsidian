@@ -62,9 +62,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a821b7ac20eeb60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "af0f5054e3d5e559",
+  "active": "6a821b7ac20eeb60",
   "lastOpenFiles": [
     "Calculus 2/Chapter 1 - Ứng dụng phép toán vi phân.md",
     "Calculus 2/Chapter 1.5 - Các dạng bài tập.md",
