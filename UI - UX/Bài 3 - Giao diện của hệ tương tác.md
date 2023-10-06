@@ -12,3 +12,8 @@
 	$\Rightarrow$ Muốn phần mềm quản lý thu tiền, quản lý dân trong chung cư
 	$\Rightarrow$ Vì nếu chỉ có quản lý có app,công việc vẫn thế $\rightarrow$ Cần app cho cả người dùng
 	Cần xác định: Người dùng? Xác định loại(web, mobile)? Chức năng chính?
+BTVN: 
+	1. Tìm ít nhất 3 ứng dụng tương tự đáp ứng 1 phần hoặc hầu hết các yêu cầu người dùng mô tả.
+	2. Đặc tả hệ thống muốn xây dựng trên quan điểm xây dựng phần mềm 
+	3. Tự đọc khung tương tác. Miêu tả 2 công việc qua nó.
+	4. 
