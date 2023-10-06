@@ -14,3 +14,6 @@
 - Tất cả phần mềm phải có docs. Design docs được tạo ra sau khi code xong. 
 	$\Rightarrow$ Sẽ đưa cho người dùng outline để dễ hiểu
 - Cần phải có sự hợp tác của khách hàng 
+
+## III. 12 nguyên lý
+- 

@@ -52,6 +52,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecf6b16e2b64d23f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SE/Bai 03 - Phuong phap Agile.pdf"
+              }
+            }
           }
         ],
         "currentTab": 3
