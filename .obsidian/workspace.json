@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Chapter 3 - Agile method.md",
+                "file": "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Chapter 3 - Agile method.md",
+                "file": "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +161,8 @@
   },
   "active": "6b28697000b1ee62",
   "lastOpenFiles": [
-    "SE/Bai 03 - Phuong phap Agile.pdf",
     "SE/Chapter 3 - Agile method.md",
+    "SE/Bai 03 - Phuong phap Agile.pdf",
     "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
     "SE",
     "Calculus 2/Chapter 1 - Ứng dụng phép toán vi phân.md",
