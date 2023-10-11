@@ -17,4 +17,8 @@ BTVN:
 	1. Tìm ít nhất 3 ứng dụng tương tự đáp ứng 1 phần hoặc hầu hết các yêu cầu người dùng mô tả.
 	2. Đặc tả hệ thống muốn xây dựng trên quan điểm xây dựng phần mềm 
 	3. Tự đọc khung tương tác. Miêu tả 2 công việc qua nó.
-	4. 
+## II. Interfaces
+### 1. Human Interface
+- Trao đổi thông tin và tương tác giữa con người và hệ thống có tính đến các yếu tố như con người, thiết bị, môi trường, xã hội, cộng đồng (example: Cách các ứng dụng cộng sinh, sử dụng trong bối cảnh?)
+### 2. User interface
+- Tất cả các thành phần của hệ thống tương tác (phần mềm hoặc phần cứng) cung cấp thông tin và điều khiển cho người dùng để hoàn thành các tác vụ cụ thể với hệ tương tác. (Nút bấm, list functions, ...)
