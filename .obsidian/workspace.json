@@ -21,14 +21,32 @@
             "id": "563c66998adbd509",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mạng MT/Chương 1 - Tổng quan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2cbc6b0442b412af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46dd3ee73095da4c",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf",
+                "file": "Mạng MT/Chương 1 - Tổng quan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +176,10 @@
       }
     ]
   },
-  "active": "98dd137db497e3cc",
+  "active": "563c66998adbd509",
   "lastOpenFiles": [
-    "Mạng MT/Chương 1 - Tổng quan.md",
     "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf",
+    "Mạng MT/Chương 1 - Tổng quan.md",
     "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf",
     "Mạng MT/PDFs/Chương 2 - Tầng vật lý.pdf",
     "Mạng MT/PDFs/Chuong 5 - Tang giao van + truyen tin tin cay v2.pdf",
