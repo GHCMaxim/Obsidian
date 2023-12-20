@@ -8,64 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a54525af77279df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a68e43c8825ecb37",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
-            "id": "ab4e54e947a04872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTKH/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b28697000b1ee62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea0e3908d1b4b62c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI - UX/Bài 6 - Phân tích nhiệm vụ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4807f418bd58312a",
             "type": "leaf",
             "state": {
@@ -76,17 +18,17 @@
             }
           },
           {
-            "id": "ecf6b16e2b64d23f",
+            "id": "563c66998adbd509",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "SE/Bai 03 - Phuong phap Agile.pdf"
+                "file": "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf",
+                "file": "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,21 +123,57 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4807f418bd58312a",
+  "floating": {
+    "id": "abee75d2319087e3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b996a93bd2cfe58a",
+        "type": "window",
+        "children": [
+          {
+            "id": "52bb9a1af14cdb40",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e4c76264f6b5b93a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 140,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "98dd137db497e3cc",
   "lastOpenFiles": [
-    "UI - UX/PDF Bài giảng/UIUX07 Thiết kế giao diện.pdf",
+    "Mạng MT/Chương 1 - Tổng quan.md",
+    "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf",
     "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf",
+    "Mạng MT/PDFs/Chương 2 - Tầng vật lý.pdf",
+    "Mạng MT/PDFs/Chuong 5 - Tang giao van + truyen tin tin cay v2.pdf",
+    "Mạng MT/PDFs/Chuong 4. Tang lien mang_v2.pdf",
+    "Mạng MT/PDFs/Chương 3 - Tầng liên kết dữ liệu.pdf",
+    "Mạng MT/PDFs",
+    "Mạng MT",
+    "UI - UX/PDF Bài giảng/UIUX07 Thiết kế giao diện.pdf",
     "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
     "UI - UX/Bài 6 - Phân tích nhiệm vụ.md",
     "UI - UX/PDF Bài giảng/UIUX03 Giao dien cua cac he tuong tac.pdf",
-    "UI - UX/PDF Bài giảng/UIUX02 Con nguoi va may tinh.pdf",
-    "UI - UX/PDF Bài giảng/UIUX04 Quy trinh thiet ke.pdf",
     "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
-    "UI - UX/PDF Bài giảng/UIUX12 cac giao dien khac.pdf",
-    "UI - UX/PDF Bài giảng/UIUX11 Thiet ke giao dien di dong.pdf",
-    "UI - UX/PDF Bài giảng/UIUX10 thiet ke giao dien web.pdf",
-    "UI - UX/PDF Bài giảng/UIUX09 Kiem tra danh gia.pdf",
-    "UI - UX/PDF Bài giảng/UIUX06-07 Phan tich nhiem vu.pdf",
     "Fundamental Physics 1 - PFIEV.md",
     "TTHCM/Tư tưởng Hồ Chí Minh.md",
     "TTHCM/Chương 6 - TTHCM về văn hoá, đạo đức, và xây dựng con người mới.md",
