@@ -66,6 +66,16 @@
             }
           },
           {
+            "id": "4807f418bd58312a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf"
+              }
+            }
+          },
+          {
             "id": "ecf6b16e2b64d23f",
             "type": "leaf",
             "state": {
@@ -76,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI - UX/Bài 6 - Phân tích nhiệm vụ.md",
+                "file": "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea0e3908d1b4b62c",
+  "active": "4807f418bd58312a",
   "lastOpenFiles": [
+    "UI - UX/PDF Bài giảng/UIUX07 Thiết kế giao diện.pdf",
+    "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf",
     "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
     "UI - UX/Bài 6 - Phân tích nhiệm vụ.md",
     "UI - UX/PDF Bài giảng/UIUX03 Giao dien cua cac he tuong tac.pdf",
@@ -183,8 +195,6 @@
     "UI - UX/PDF Bài giảng/UIUX11 Thiet ke giao dien di dong.pdf",
     "UI - UX/PDF Bài giảng/UIUX10 thiet ke giao dien web.pdf",
     "UI - UX/PDF Bài giảng/UIUX09 Kiem tra danh gia.pdf",
-    "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf",
-    "UI - UX/PDF Bài giảng/UIUX07 Thiết kế giao diện.pdf",
     "UI - UX/PDF Bài giảng/UIUX06-07 Phan tich nhiem vu.pdf",
     "Fundamental Physics 1 - PFIEV.md",
     "TTHCM/Tư tưởng Hồ Chí Minh.md",
