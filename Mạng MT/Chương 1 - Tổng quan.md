@@ -59,4 +59,9 @@ Bao gồm:
 - Xuất hiện các mạng riêng (đầu TN 70)
 - ARPANET mở rộng (3m+ gói tin/ngày năm 74)
 - 74: Cerf và Kahn nhận Turing Award nhờ nguyên lý kết nối các hệ thống mở
-- 76: 
+- 76: Ethernet đc phát triêwnr ở Xerox PARC
+##### Thập niên 80:
+- 80: TCP/IP Protocol được chuẩn hoá và phổ biến, được tích hợp vào UNIX bởi Berkeley
+- Thêm nhiều mạng mới: MFENET, HEPNET, SPAN, BITnet, CSnet, NSFnet, Minitel,... được nối với nhau
+- Thêm nhiều dịch vụ: FTP, Mail, DNS,...
+- 
