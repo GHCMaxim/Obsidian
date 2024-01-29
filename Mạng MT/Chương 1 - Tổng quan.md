@@ -33,19 +33,5 @@
 | Mục đích phục vụ    | Cho cá nhân  | Cho gia đình, tổ chức | Cho thành phố, khu vực | The internet itself |
 
 ### Kiến trúc mạng
-#### Mạng Internet
--  Trên 5 tỉ thiết bị kết nối  
-- 3.2 tỉ người dùng(40%)  
-- Đường truyền: cáp quang, cáp đồng, Wimax, 3G…  
-- Truyền tải ~3x109 GB mỗi ngày  
-- Dịch vụ: Web, email, mạng xã hội, Skype…
-#### Network of Networks
-- Không có khả năng mở rộng $\Rightarrow$ Số lượng kết nối sẽ là $O(n^2)$ 
-	$\Rightarrow$ Giải quyết bằng kết nối mạng vào 1 trạm chuyển tiếp của 1 nhà cung cấp toàn cầu (ISP)
-	- Nhiều ISP thì cần có trạm trung chuyển giữa chúng
-	- Thêm mạng khu vực (Regional net) kết nối với các ISP toàn cầu
-	- Mạng lõi sẽ bao gồm các ISP và Regional Net
-	- Mạng biên: 
-		- Nút mạng đầu cuối (end-system, hosts): PC, phones, servers, ...
-		- Mạng truy nhập (Access Networks): Router, Switch, hub, ...
+#### Man
 
