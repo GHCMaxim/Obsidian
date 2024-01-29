@@ -11,9 +11,11 @@
             "id": "4807f418bd58312a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf"
+                "file": "Mạng MT/Mạng máy tính.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -31,16 +33,13 @@
             "id": "11280695dd4f0dbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mạng MT/Chương 1 - Tổng quan.md",
-                "mode": "source",
-                "source": false
+                "file": "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mạng MT/Chương 1 - Tổng quan.md",
+                "file": "Mạng MT/Mạng máy tính.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,18 +135,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "11280695dd4f0dbc",
+  "active": "4807f418bd58312a",
   "lastOpenFiles": [
+    "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf",
+    "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf",
+    "Mạng MT/PDFs/Chương 3 - Tầng liên kết dữ liệu.pdf",
+    "Mạng MT/PDFs/Chuong 5 - Tang giao van + truyen tin tin cay v2.pdf",
+    "Mạng MT/PDFs/Chuong 4. Tang lien mang_v2.pdf",
+    "Mạng MT/Mạng máy tính.md",
     "Excalidraw/Drawing 2024-01-29 12.00.44.excalidraw.md",
     "Pasted image 20240129120332.png",
-    "Mạng MT/Chương 1 - Tổng quan.md",
-    "Mạng MT/PDFs/Chương 1 - Tổng quan.pdf",
     "Untitled.canvas",
-    "Mạng MT/PDFs/Chuong 5 - Tang giao van + truyen tin tin cay v2.pdf",
-    "Mạng MT/PDFs/Chương 3 - Tầng liên kết dữ liệu.pdf",
-    "Mạng MT/PDFs/Chuong 4. Tang lien mang_v2.pdf",
     "Mạng MT/PDFs/Chương 2 - Tầng vật lý.pdf",
-    "UI - UX/PDF Bài giảng/UIUX08 Tao mau thu.pdf",
     "Mạng MT/PDFs",
     "Mạng MT",
     "UI - UX/PDF Bài giảng/UIUX07 Thiết kế giao diện.pdf",

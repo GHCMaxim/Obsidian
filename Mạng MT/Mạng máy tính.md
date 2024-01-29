@@ -64,4 +64,68 @@ Bao gồm:
 - 80: TCP/IP Protocol được chuẩn hoá và phổ biến, được tích hợp vào UNIX bởi Berkeley
 - Thêm nhiều mạng mới: MFENET, HEPNET, SPAN, BITnet, CSnet, NSFnet, Minitel,... được nối với nhau
 - Thêm nhiều dịch vụ: FTP, Mail, DNS,...
-- 
+##### Thập niên 90:
+- Đầu 90: Web phát triển với HTML và HTTP protocol
+- 94: Xuất hiện trình duyệt Mosaic, Netscape
+- Cuối 90 - 2000:
+	- Nhiều ứng dụng mới: Chat, P2P sharing
+	- E-Commerce: Yahoo, Amazon, Google
+	- 50m+ máy trạm, 100m+ users
+	- Internet for everyone $\Rightarrow$ CyberSec issue
+- 97: Việt Nam có Internet
+### Chuyển mạch kênh và chuyển mạch gói
+#### Đặt vấn đề:
+##### Thông số kết nối giữa 2 máy
+- Băng thông (bandwidth): Lượng dữ liệu truyền tối đa trong 1 đvị thời gian (bps - bits per s)
+- Trễ (Latency): Thời gian truyền dữ liệu từ A đến B.
+	- Trễ truyền tải = Kích thước dữ liệu / Băng thông
+	- Trễ truyền dẫn = Độ dài liên kết / Tốc độ dữ liệu ($\approx 2.10^{8}m/s$ )
+##### Kết nối giữa nhiều nút mạng
+- Sử dụng mạng chuyển mạch:
+	- Mỗi host kết nối với 1 thiết bị chuyển mạch
+	- Các thiết bị chuyển mạch kết nối điểm - điểm và chuyển tiếp dữ liệu tới đích = định tuyến
+	- Chia sẻ tài nguyên đường truyền
+#### Chuyển mạch kênh
+
+![](https://lh7-us.googleusercontent.com/gjv2m-ESWcA2O5EfIDg-UjeK-W568K06zFG4kOoQUcgIbCdwEp4vx09ItPX0_3sYh4cLDyhAufkhFY5BH9XMBdOMObgnmLH1AoX4iTO_AjqMliiBiQ_dktZZDf7wbcJRcTEt_0aT1rQAbnqh-b4Wig)
+
+(1): A phát yêu cầu thiết lập kênh
+(2): Các thiết bị chuyển mạch thiết lập kênh
+(3): A bắt đầu truyền dữ liệu
+(4): A truyền xong: Phát yêu cầu huỷ kênh
+
+##### Trên mỗi thiết bị chuyển mạch:
+-  Ghép kênh: Gửi dữ liệu của nhiều kênh trên nhiều liên kết vật lý.
+-  Các kỹ thuật:
+	- Theo thời gian (TDM): Sử dụng tài nguyên trong khe thời gian được phân
+	- Theo tần số (FDM): Sử dụng một băng tần tín hiệu riêng
+-  Phân kênh: Phân dữ liệu nhận được trên liên kết vật lý vào các kênh tương ứng và chuyển đến đúng đích
+##### Ưu điểm: 
+- Kênh thiết lập sẵn $\rightarrow$ Trễ chuyển mạch rất thấp
+- Tài nguyên dành riêng và không đổi khi truyền $\rightarrow$ Đảm bảo chất lượng dịch vụ
+##### Nhược điểm:
+- Dễ mất thông tin khi truyền
+- Tốn thời gian khi dữ liệu nhỏ
+- Bắt đầu lại quá trình nếu lỗi trên thiết bị chuyển mạch
+- Hiệu suất sử dụng đường truyền thấp
+#### Chuyển mạch gói
+##### Luật chuyển
+- Dữ liệu được chia thành các gói tin (package) bao gồm: Tiêu đề (header), địa chỉ, số thứ tự và dữ liệu (Payload)
+- Thiết bị chuyển mạch chuyển tiếp gói tin dựa trên tiêu đề
+- Chỉ chuyển tiếp khi nhận được toàn bộ gói tin.
++ Công đoạn xử lý: kiểm tra lỗi, gửi gói tin (thường nhỏ so với trễ truyền tin).
++ Mỗi gói tin có thể được xử lý độc lập, đường đi khác nhau, không còn đúng thứ tự.
++ Tài nguyên dùng chung cho tất cả các kết nối.
+##### Cách thức chuyển
+- Unicast: Chuyển tới 1 nút mạng
+- Multicast: Chuyển tới một nhóm nút mạng
+- Broadcast: Chuyển tới tất cả nút mạng
+##### So sánh với chuyển mạch kênh:
+- Hiệu suất sử dụng đường truyền cao
+- Không tốn thơi gian thiết lập kênh
+##### Trên mỗi thiết bị chuyển mạch
+- CÓ 1 hàng đợi FIFO để sắp xếp các gói tin
+- Mất gói tin nếu hàng đợi đã đầy
+##### Các thông số cơ bản:
+- Băng thông = Tốc độ truyền tin / Dung lượng
+- Thông lượng
