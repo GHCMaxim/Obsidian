@@ -32,6 +32,28 @@
             }
           },
           {
+            "id": "99b3f19ded5a1136",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "b97e02abf1320910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Black box testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "563c66998adbd509",
             "type": "leaf",
             "state": {
@@ -52,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Black box testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,8 +170,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a677fed72849412b",
+  "active": "b97e02abf1320910",
   "lastOpenFiles": [
+    "Black box testing.md",
+    "Test",
     "TTHCM/Chương 1 - Khái niệm, đối tượng, phương pháp và ý nghĩa học tập.md",
     "Untitled.md",
     "TTHCM-Re",
@@ -165,7 +189,6 @@
     "Untitled.canvas",
     "Mạng MT/PDFs",
     "Mạng MT",
-    "UI - UX/PDF Bài giảng/UIUX07 Thiết kế giao diện.pdf",
     "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
     "UI - UX/Bài 6 - Phân tích nhiệm vụ.md",
     "TTHCM/Chương 4 - TTHCM về ĐCSVN và Nhà nước của nhân dân, cho dân, vì dân.md",
