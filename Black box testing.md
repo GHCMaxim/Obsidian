@@ -20,4 +20,10 @@
 	- A list of data in a class that is equivalent
 - All data in an equivalent class should gives out an output that behaves the same.
 $\Rightarrow$ Don't need to test all values in that class. Only need a representative value.
-
+### Exercise 1:
+| Output         | Classes              |
+| -------------- | -------------------- |
+| Don't hire     | Age > 56<br>Age < 15 |
+| Hire part-time | 16 < Age < 17        |
+| Hire full-time | 18 < Age < 55        |
+$\Rightarrow$ 4 test cases
