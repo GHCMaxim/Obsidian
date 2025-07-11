@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1.2 Usability"
             }
+          },
+          {
+            "id": "bc26b08c1b1ed92e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "79e41faf9bae7ab1",
+  "active": "bc26b08c1b1ed92e",
   "lastOpenFiles": [
     "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
     "UI - UX/PDF Bài giảng/UIUX01 Gioi thieu chung.pdf",
