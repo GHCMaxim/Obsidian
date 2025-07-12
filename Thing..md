@@ -38,3 +38,50 @@ b. (DSA) What's the searching algorithm friend M used to find the right image to
 c. (DSA) Determine the time-complexity of his image switching algorithm.
 
 
+### Question 5:
+#### Part A:
+Going back to your POV, as you are walking you saw a street food store, and having decided that it'd be nice to have something to chew on while you guys walk, you asked Hoshino to wait while you go grab some. However, the crowd around you is too large, and as you turn around, Hoshino's nowhere to be seen. There's a silver lining to this though: You've instructed Hoshino to go wait the first convenience store she sees if she's ever lost and unable to contact you.
+
+As you scramble to pull up Google Maps, and taking in consideration her normal walking pace, you pointed out all the places where she could possibly be and drew up this graph:
+
+```
+A - B - C - D
+|   |   |   |
+|   +---E---+
+|       |
++-- F --+  
+|       |
++-- G --H
+
+
+You are at A.
+```
+
+
+(DSA) Using BFS as your preferred way of traversal, what's the traversal order you have to take to reach all convenience stores?
+
+#### Part B:
+Unfortunately, even though most roads in this stupid fucking city has the same amount of sidewalk space, the amount of people on each sidewalk is not. As you've travelled through this area many times already, you know *roughly* how long it would take to travel to each convenience store from the ones connected to it. Adding said travel time to the graph, you get:
+```
+A -1- B -2- C -4- D
+|     1     2     4
+3     |     |     |
+|     +-----E-----+
+|           1
+|           |
++---- F ----+
+      |
+1---- + ----2
+|           |
++---- G -2--H
+
+You are at A.
+```
+
+a. (DSA) What algorithm should you use to find out the time you'd take to reach each convenience store?
+b. (DSA) Determine the fastest route and the amount of time it'd take to reach convenience store H, D and E respectively.
+
+### Question 6:
+
+As you su
+
