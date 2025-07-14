@@ -48,4 +48,23 @@
 	- Mạng biên: 
 		- Nút mạng đầu cuối (end-system, hosts): PC, phones, servers, ...
 		- Mạng truy nhập (Access Networks): Router, Switch, hub, ...
+### Chuyển mạch gói/kênh
+#### Các công thức, thông số cần nhớ:
+- **Bandwidth (R)**: Lượng dữ liệu truyền tối đa trong 1 đơn vị thời gian (Mbps)
+- **Latency**: Thời gian truyền dữ liệu từ A $\rightarrow$ B
+	- **Trễ truyền dẫn (Propagation delay)** : $$D_{PR} = \frac{D}{S}$$
+		- $D$ : Độ dài đường truyền
+		- $S$ : Tốc độ tín hiệu (usually Speed of light $3*10^{8}$ m/s)
+	- **Trễ truyền tin (Tranmission delay)**: $$D_{T}= \frac{N_{B}}{R}$$
+		- $N_{B}$ : Kích thước dữ liệu
+		- $R$ : Băng thông
+	
+Example: Tranfering 100Bytes from A to B, given:
+	- R = 1Mbps
+	- D = 200km
+	- S = 1ms
+- Time to transfer 1 bit with 0 delay: $\frac{1}{10^{6}}$s $\Rightarrow$ Time to transfer 800bits: $800* \frac{1}{10^{6}}$s
+- Time for first bit to reach B: $\frac{1}{10^{6}}+ \frac{1}{10^{3}}$
+$\Rightarrow$ Time for final bit to reach B: $800$...
+
 
