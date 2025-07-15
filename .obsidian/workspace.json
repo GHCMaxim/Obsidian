@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thing..md",
+                "file": "DSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thing."
+              "title": "DSA"
             }
           }
         ],
@@ -194,11 +194,13 @@
   "active": "f97d2b74275bd34a",
   "lastOpenFiles": [
     "Untitled 1.md",
+    "DSA.md",
+    "Untitled.md",
     "Thing..md",
+    "Mạng MT/Chương 1 - Tổng quan.md",
     "UI - UX/Bài 3 - Giao diện của hệ tương tác.md",
     "UI - UX/PDF Bài giảng/UIUX01 Gioi thieu chung.pdf",
     "UIUX2/1.2 Usability.md",
-    "Untitled.md",
     "UIUX2/Slides/HCI - UX-UI 15.2 Case 2  Usecase.pdf",
     "UIUX2/Slides/HCI - UX-UI 15.1 Case 1 Thread.pdf",
     "UIUX2/Slides/HCI - UX-UI 14  Apendix- Automotive UXUI.pdf",
@@ -228,8 +230,6 @@
     "TTHCM/Chương 2 - Cơ sở, quá trình hình thành và phát triển TTHCM.md",
     "SE/Chapter 3 - Agile method.md",
     "Calculus 2/Chapter 1 - Ứng dụng phép toán vi phân.md",
-    "Calculus 2/Chapter 1.5 - Các dạng bài tập.md",
-    "Fundamental Physics/Điện từ 1/Chương 4 - Định lý Gauss.md",
-    "Fundamental Physics/Điện từ 1/Chương 6 - Từ trường tĩnh.md"
+    "Calculus 2/Chapter 1.5 - Các dạng bài tập.md"
   ]
 }
