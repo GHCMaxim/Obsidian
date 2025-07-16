@@ -26,7 +26,7 @@ c. (DSA) What's the data structure of the list of problems?
 ### Question 2:
 
 #### Problem statement:
-While slowly working through the first problem, Friend M realizes that most of titles of the "Demo" section of your presentation is in the format "\<Section> Demo", and the contents of these slides are only the one image. As changing each title and formatting each image of a new slide is time consuming, he decides that it'd be much faster and easier to just create a general slide with "\<Section\> Demo" in the title, throw a stock image with the size of the whole body section of the slides. He then makes as many clones of these slides as needed, replacing "\<Section>" and the image to fit with the narrative.
+While slowly working through the problems, Friend M realizes that most of titles of the "Demo" section of your presentation is in the format "\<Section> Demo", and the contents of these slides are only the one image. As changing each title and formatting each image of a new slide is time consuming, he decides that it'd be much faster and easier to just create a general slide with "\<Section\> Demo" in the title, throw a stock image with the size of the whole body section of the slides. He then makes as many clones of these slides as needed, replacing "\<Section>" and the image to fit with the narrative.
 
 As he goes through each slide, he has to find the right image in his folder of possible images to replace into the slides. To do so, he opens up the first image in the folder, and scroll through each one until he finds the right picture, adding it in and going back to the first image. However, the ANPR Demo part is too long to be written out fully in the title and contains 2 pictures instead of 1, so he deletes the word Demo from the title, and make room to add the second picture.
 
@@ -37,10 +37,14 @@ Bonus points: Determine the sub-type of the pillar(s) used.
 b. (DSA) What's the searching algorithm friend M used to find the right image to replace?
 c. (DSA) Determine the time-complexity of his image switching algorithm.
 
+### Question 3:
+
+#### Problem statement:
+As the other side finishes up working on your thesis' slides, you get to 
 
 ### Question 5:
 #### Part A:
-Going back to your POV, as you are walking you saw a street food store, and having decided that it'd be nice to have something to chew on while you guys walk, you asked Hoshino to wait while you go grab some. However, the crowd around you is too large, and as you turn around, Hoshino's nowhere to be seen. There's a silver lining to this though: You've instructed Hoshino to go wait the first convenience store she sees if she's ever lost and unable to contact you.
+As you are walking you saw a street food store, and having decided that it'd be nice to have something to chew on while you guys walk, you asked Hoshino to wait while you go grab some. However, the crowd around you is too large, and as you turn around, Hoshino's nowhere to be seen. There's a silver lining to this though: You've instructed Hoshino to go wait the first convenience store she sees if she's ever lost and unable to contact you.
 
 As you scramble to pull up Google Maps, and taking in consideration her normal walking pace, you pointed out all the places where she could possibly be and drew up this graph:
 
@@ -81,7 +85,5 @@ You are at A.
 a. (DSA) What algorithm should you use to find out the time you'd take to reach each convenience store?
 b. (DSA) Determine the fastest route and the amount of time it'd take to reach convenience store H, D and E respectively.
 
-### Question 6:
 
-As you su
 
