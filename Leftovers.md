@@ -93,3 +93,32 @@ class Mi extends Me {
 | Radix Sort        | $O(n * k)$    | $O(n * k)$      | $O(n * k)$    | $O(n + k)$       |
 | Count Sort        | $O(n + k)$    | $O(n + k)$      | $O(n + k)$    | $O(k)$           |
 | Bucket Sort       | $O(n + k)$    | $O(n + k)$      | $O(n^2)$      | $O(n)$           |
+### On the Subject of Type Conversion
+
+Type Conversion in Java is like building a house. You building more of the house is free and is done automatically, you break down the house requires explicit permissions. Generally speaking, remember this list, going from smallest to biggest:
+
+Byte $\leftrightarrow$ Short $\leftrightarrow$ Int $\leftrightarrow$ Long $\leftrightarrow$ Float $\leftrightarrow$ Double
+
+#### Widening(Automatic Conversion)
+Data types automatically converted when:
+- Two data types are compatible
+- We assign smaller data type to bigger data type
+Example:
+```Java
+int i = 100;
+long l = i;
+float f = l;
+```
+This is automatic, and does not need explicit type casting.
+
+#### Narrowing(Explicit Conversion)
+
+This happens when we *explicitly* want a value of a larger data type turned into a smaller one, so we have to be explicit about the conversion.
+
+Example:
+```Java
+double d = 100.0;
+long l = (long)d;
+int i = (int)i
+```
+Of course, you will lose the fractional part. Considered it floored to save the headache.
