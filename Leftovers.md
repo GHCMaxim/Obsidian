@@ -95,7 +95,7 @@ class Mi extends Me {
 | Bucket Sort       | $O(n + k)$    | $O(n + k)$      | $O(n^2)$      | $O(n)$           |
 ### On the Subject of Type Conversion
 
-Type Conversion in Java is like building a house. You building more of the house is free and is done automatically, you break down the house requires explicit permissions. Generally speaking, remember this list, going from smallest to biggest:
+Type Conversion in Java is like buil]ding a house. You building more of the house is free and is done automatically, you break down the house requires explicit permissions. Generally speaking, remember this list, going from smallest to biggest:
 
 Byte $\leftrightarrow$ Short $\leftrightarrow$ Int $\leftrightarrow$ Long $\leftrightarrow$ Float $\leftrightarrow$ Double
 
