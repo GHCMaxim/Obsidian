@@ -122,3 +122,6 @@ long l = (long)d;
 int i = (int)i
 ```
 Of course, you will lose the fractional part. Considered it floored to save the headache.
+
+### On the Subject of SDLC
+
