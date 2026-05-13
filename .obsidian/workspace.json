@@ -112,9 +112,21 @@
               "icon": "lucide-file",
               "title": "Compiler 4"
             }
+          },
+          {
+            "id": "699ca83b392fa9f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -209,6 +221,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -219,7 +232,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0d292b2fe4a86ee8",
+  "active": "699ca83b392fa9f4",
   "lastOpenFiles": [
     "Leftovers.md",
     "Compiler/Compiler 4.md",
